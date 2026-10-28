@@ -1,0 +1,1031 @@
+Patient Name,Age,Gender,Condition,Medication,Visit Date,Blood Pressure,Cholesterol,Email,Phone Number
+David Thomas,20,None,Asthma,Montelukast,2021-02-27,104/65,148,contact@domain.com,222-939-8600
+Robert Johnson,27,Male,Diabetes,Albuterol,2024-10-11,112/71,175,robert1@mail.com,238-809-8828
+Anita Thomas,60,Female,Hypertension,Amlodipine,2020-06-06,152/94,255,anita.thomas@hospital.org,779-669-5376
+Rahul Brown,59,Female,Diabetes,Insulin,2022-04-02,122/68,239,rahul.brown@hospital.org,834-514-4811
+William Brown,24,FEMALE ,Diabetes,Insulin,2021-08-08,110/66,175,name@hospital.org,
+  PRIYA MILLER ,27,FEMALE ,Asthma,Albuterol,,119/73,144,contact@domain.com,806-810-6397
+Laura Davis,61,Female,Heart Disease,Atorvastatin,2020-09-16,138/85,267,laura6@mail.com,144-877-3281
+John Anderson,78,Female,Diabetes,Metformin,2021-07-28,134/88,230,john7@mail.com,947-437-7388
+David Brown,51,Female,Heart Disease,Albuterol,2020-11-25,126/72,207,name@hospital.org,539-857-4505
+daniel sharma,42,Other,Diabetes,Metformin,2023-12-28,102/61,209,daniel.sharma@hospital.org,
+Rahul Davis,25,Female,Asthma,Montelukast,2023-10-03,123/74,156,rahul10@mail.com,923-710-7685
+Emily Smith,35,Female,Hypertension,Lisinopril,2023-04-19,146/83,123,contact@domain.com,429-491-6228
+David Patel,44, Male,Diabetes,Metformin,2023-11-04,107/60,222,david12@mail.com,978-530-3651
+  DANIEL MILLER ,65,Female,Heart Disease,Aspirin,2020-10-26,148/86,256,contact@domain.com,
+John Anderson,72,Other,Heart Disease,Atorvastatin,,148/96,268,john14@mail.com,
+Michael Brown,30,FEMALE ,Hypertension,Lisinopril,not recorded,156/99,221,contact@domain.com,853-312-5578
+Sarah Miller,50,male,Diabetes,Insulin,2020-08-06,126/84,230,sarah.miller@hospital.org,494-139-7192
+Michael Taylor,62,None,Diabetes,Insulin,2022-03-23,117/70,213,name@hospital.org,771-379-1058
+Emily Johnson,22,male,Asthma,Montelukast,2021-03-22,116/79,141,emily18@mail.com,628-549-1779
+  ANITA TAYLOR ,66,Female,Heart Disease,Atorvastatin,,169/101,250,anita.taylor@hospital.org,
+Linda Lee,59,Male,Hypertension,Lisinopril,2022-01-28,155/108,246,contact@domain.com,
+John Wilson,63,FEMALE ,Hypertension,Lisinopril,2022-04-29,163/94,197,john21@mail.com,851-805-5275
+  JAMES PATEL ,38,Female,Diabetes,Insulin,2022-07-26,116/71,175,contact@domain.com,608-640-1825
+William Miller,63,Male,Heart Disease,Aspirin,2022-03-13,145/81,296,william23@mail.com,340-671-8545
+Jane Sharma,35,Male,Diabetes,Metformin,,98/60,0,jane24@mail.com,344-602-4039
+Sarah Taylor,70,None,Diabetes,Metformin,,125/84,220,sarah25@mail.com,881-140-5674
+  RAHUL BROWN ,53,Male,Asthma,Albuterol,not recorded,123/75,205,rahul26@mail.com,216-595-9823
+Emily Miller,47,Other,Heart Disease,Lisinopril,2022-03-24,143/92,274,emily.miller@hospital.org,584-192-4148
+Anita Patel,65,Female,Heart Disease,Albuterol,2020-12-14,154/97,253,name@hospital.org,176-644-4347
+Linda Lee,5,Male,Asthma,None,2024-11-12,110/70,120,name@hospital.org,688-186-9804
+  LINDA TAYLOR ,57,Female,Diabetes,Metformin,2022-12-07,138/83,220,contact@domain.com,561-217-3499
+daniel brown,49,Male,Diabetes,Metformin,,122/84,227,contact@domain.com,314-501-7000
+  MARIA THOMAS ,57, Male,Hypertension,Lisinopril,2023-03-18,154/95,239,maria32@mail.com,
+  JOHN LEE ,20,Male,Heart Disease,Atorvastatin,,133/81,267,john33@mail.com,
+  MICHAEL SHARMA ,57, Male,Diabetes,Metformin,2023-07-10,125/78,276,michael.sharma@hospital.org,
+David Johnson,46,FEMALE ,Hypertension,Lisinopril,2024-09-13,161/95,209,contact@domain.com,298-536-3390
+Emily Wilson,38,None,Asthma,Montelukast,2024-07-16,119/78,196,name@hospital.org,267-885-2296
+  DANIEL PATEL ,86,Male,Diabetes,Metformin,2020-06-30,118/76,210,daniel37@mail.com,730-603-4357
+William Lee,27,Male,Heart Disease,Metformin,2024-02-16,129/73,206,name@hospital.org,450-690-2680
+  ROBERT LEE ,58,Female,Hypertension,Lisinopril,2021-04-04,145/85,237,name@hospital.org,978-856-2099
+Robert Patel,47,male,Diabetes,Insulin,2020-03-04,125/73,228,robert.patel@hospital.org,992-240-6746
+Jane Sharma,33,Male,Diabetes,Metformin,2024-03-10,125/77,193,contact@domain.com,825-856-8298
+sarah miller,16,FEMALE ,Asthma,Albuterol,2023-10-12,118/75,151,sarah42@mail.com,187-434-9383
+anita garcia,53,FEMALE ,Hypertension,Lisinopril,2020-07-16,144/83,205,anita43@mail.com,
+Priya Garcia,40,Female,Asthma,Albuterol,2021-04-16,120/70,213,priya44@mail.com,770-466-5947
+Maria Thomas,38,male,Hypertension,Lisinopril,2022-10-06,142/89,192,maria.thomas@hospital.org,543-362-9276
+  LINDA MARTINEZ ,28,None,Asthma,Albuterol,2024-01-27,117/68,159,linda.martinez@hospital.org,292-821-3774
+Jane Sharma,0, Male,Asthma,Albuterol,,105/60,188,name@hospital.org,666-538-5133
+Rahul Davis,29,male,Asthma,Montelukast,2023-05-29,113/70,162,contact@domain.com,151-635-3800
+Priya Garcia,26,Female,Asthma,Albuterol,2022-12-04,108/61,127,priya49@mail.com,623-961-4926
+rahul thomas,72,Male,Heart Disease,Aspirin,2022-07-08,172/112,231,rahul50@mail.com,328-781-6779
+Emily Patel,47,FEMALE ,Hypertension,Albuterol,2024-02-16,153/86,245,contact@domain.com,860-371-4079
+Priya Smith,46,Other,Diabetes,Metformin,2024-02-05,129/75,224,name@hospital.org,641-277-1626
+jane sharma,28,male,Asthma,Albuterol,2022-12-23,113/70,140,jane53@mail.com,
+James Miller,60,Male,Hypertension,Amlodipine,2024-11-01,149/81,0,james54@mail.com,
+  JANE JOHNSON ,33,Male,Diabetes,Metformin,not recorded,113/67,0,contact@domain.com,
+David Anderson,66,Male,Diabetes,Metformin,2020-05-16,137/90,269,david56@mail.com,732-589-2048
+Michael Johnson,50,Male,Asthma,Montelukast,2022-01-20,132/84,185,name@hospital.org,
+John Brown,52,Other,Heart Disease,Atorvastatin,2020-10-19,136/80,235,contact@domain.com,371-937-2003
+Sarah Davis,31,Male,Asthma,Montelukast,2023-11-20,110/72,123,sarah59@mail.com,
+sarah taylor,0,male,Hypertension,Lisinopril,2023-03-23,154/89,211,sarah.taylor@hospital.org,
+  LAURA TAYLOR ,42,Female,Hypertension,Albuterol,2022-05-15,144/88,186,name@hospital.org,323-941-3826
+Priya Miller,55,Male,Heart Disease,Aspirin,2020-09-27,142/92,269,contact@domain.com,259-394-2991
+john sharma,48, Male,Hypertension,Lisinopril,2024-06-24,156/107,229,name@hospital.org,326-573-3859
+Priya Sharma,68, Male,Hypertension,Amlodipine,,154/96,249,priya64@mail.com,
+  LINDA JOHNSON ,63,Male,Heart Disease,Aspirin,2021-10-24,142/84,251,contact@domain.com,977-953-4293
+john johnson,52,Female,Hypertension,Amlodipine,2022-04-18,155/93,220,contact@domain.com,972-900-2821
+daniel brown,49, Male,Asthma,Montelukast,2020-11-26,121/73,153,name@hospital.org,
+Jane Lee,60,Male,Hypertension,Amlodipine,2024-08-22,168/102,245,name@hospital.org,373-861-4041
+Jane Thomas,69,None,Heart Disease,Albuterol,2024-06-27,150/93,230,contact@domain.com,368-609-3673
+jane smith,85,Female,Hypertension,Lisinopril,2022-06-07,177/100,265,jane.smith@hospital.org,662-682-9563
+michael johnson,53, Male,Heart Disease,Aspirin,2021-04-26,138/83,257,name@hospital.org,341-350-8319
+Linda Smith,25,Male,Hypertension,Amlodipine,2023-07-07,131/81,237,name@hospital.org,120-306-7052
+Maria Thomas,0,Male,Hypertension,Lisinopril,2022-04-16,150/92,147,maria.thomas@hospital.org,246-914-2120
+  JANE MILLER ,75,FEMALE ,Heart Disease,Aspirin,2023-05-15,156/95,246,jane74@mail.com,478-143-8293
+Rahul Thomas,35,None,Heart Disease,Aspirin,2024-08-17,128/85,266,rahul75@mail.com,481-899-1573
+Maria Taylor,41,Male,Hypertension,Albuterol,2024-09-23,142/86,175,maria76@mail.com,691-488-7626
+Sarah Smith,0,male,Asthma,Albuterol,2020-01-11,102/68,158,contact@domain.com,378-425-8674
+Sarah Davis,48,Male,Diabetes,Insulin,2021-09-24,132/80,0,sarah78@mail.com,704-993-7226
+  WILLIAM TAYLOR ,66,Other,Hypertension,Amlodipine,2023-05-03,160/98,0,william.taylor@hospital.org,960-705-8342
+Maria Martinez,15,male,Asthma,Montelukast,2022-08-13,115/74,169,contact@domain.com,462-974-4310
+Jane Anderson,90,male,Heart Disease,Aspirin,2021-09-15,145/89,270,jane.anderson@hospital.org,908-937-4333
+Maria Johnson,49,Female,Hypertension,Amlodipine,2021-12-02,150/99,184,name@hospital.org,150-426-9779
+Maria Sharma,55, Male,Heart Disease,Aspirin,2021-08-26,135/79,296,maria.sharma@hospital.org,983-335-6294
+  LINDA MARTINEZ ,90,Female,Heart Disease,Aspirin,2022-03-22,152/89,0,contact@domain.com,951-209-8565
+Maria Martinez,56,Male,Diabetes,Metformin,2020-08-18,126/69,235,maria85@mail.com,898-857-9497
+Daniel Taylor,41,male,Diabetes,Insulin,,118/72,244,daniel.taylor@hospital.org,277-891-9092
+David Patel,82,Female,Heart Disease,Aspirin,2024-10-24,137/84,0,david.patel@hospital.org,
+sarah lee,23,Female,Asthma,Montelukast,2020-12-14,109/62,181,contact@domain.com,461-303-7187
+Sarah Sharma,24,Other,Diabetes,Metformin,2020-11-15,120/83,210,contact@domain.com,389-128-4595
+james davis,50,Male,Diabetes,Insulin,2023-04-22,133/86,231,james.davis@hospital.org,586-394-4701
+Anita Patel,22,Female,Asthma,Montelukast,2023-02-08,96/60,186,contact@domain.com,692-442-4369
+David Martinez,0,FEMALE ,Hypertension,Lisinopril,2023-06-19,156/106,199,david.martinez@hospital.org,637-189-2711
+Anita Garcia,57,Female,Diabetes,Metformin,2023-09-20,115/64,182,anita.garcia@hospital.org,402-290-7175
+William Thomas,65,Male,Heart Disease,Atorvastatin,2024-06-06,149/97,280,william94@mail.com,
+  JAMES MILLER ,0,Male,Asthma,Montelukast,2022-09-05,105/66,153,james95@mail.com,156-536-5626
+Rahul Wilson,0, Male,Hypertension,Lisinopril,2023-07-04,173/112,221,rahul96@mail.com,537-631-3637
+  MICHAEL GARCIA ,21,Male,Asthma,Montelukast,2020-08-07,117/67,150,name@hospital.org,902-955-9300
+  EMILY MARTINEZ ,26,Other,Asthma,Albuterol,2024-01-26,103/72,159,emily98@mail.com,551-622-5989
+Michael Garcia,19, Male,Asthma,Montelukast,,109/63,168,michael99@mail.com,371-399-6317
+Priya Wilson,55,Male,Hypertension,Lisinopril,2020-07-12,151/99,234,priya100@mail.com,195-781-3234
+laura taylor,42,Male,Heart Disease,Metformin,2024-04-01,142/91,226,name@hospital.org,881-228-9589
+Linda Taylor,44,Other,Diabetes,Metformin,,110/68,205,linda102@mail.com,970-371-3177
+daniel martinez,57,Other,Heart Disease,None,2024-09-20,134/80,269,daniel103@mail.com,
+Rahul Thomas,71,Male,Hypertension,Amlodipine,2020-10-06,179/110,0,contact@domain.com,310-357-4595
+Laura Miller,0,Female,Asthma,Albuterol,2022-01-11,113/69,155,laura.miller@hospital.org,815-168-1343
+Rahul Johnson,53,Male,Diabetes,Metformin,2021-01-26,121/76,237,rahul.johnson@hospital.org,343-622-4865
+Anita Patel,49,Female,Diabetes,Insulin,,121/75,243,anita.patel@hospital.org,165-323-3774
+Daniel Garcia,62,Male,Diabetes,Metformin,2021-05-09,127/78,204,contact@domain.com,802-448-5151
+William Anderson,61,FEMALE ,Diabetes,Metformin,2021-05-19,118/66,215,contact@domain.com,634-981-5272
+Anita Sharma,41,male,Diabetes,Metformin,2021-10-17,110/66,0,anita110@mail.com,216-738-9044
+  DANIEL MILLER ,52,None,Diabetes,Lisinopril,2020-01-18,129/79,254,name@hospital.org,752-327-3053
+Emily Thomas,32,Female,Asthma,Albuterol,2022-09-22,111/65,182,name@hospital.org,842-432-8783
+John Johnson,57,Female,Heart Disease,Atorvastatin,2023-11-30,140/76,250,contact@domain.com,651-610-1006
+Sarah Taylor,83,Male,Heart Disease,Aspirin,,143/86,246,contact@domain.com,286-861-7575
+Michael Miller,0,Female,Hypertension,Lisinopril,2020-09-09,155/95,254,michael115@mail.com,185-531-9313
+James Davis,46,Female,Diabetes,Insulin,2023-03-09,121/75,225,contact@domain.com,724-609-2383
+  ROBERT GARCIA ,42,Male,Asthma,Montelukast,2024-09-26,123/79,226,contact@domain.com,442-591-9176
+  SARAH JOHNSON ,36,Female,Asthma,Montelukast,2022-02-09,123/71,165,sarah.johnson@hospital.org,
+  WILLIAM BROWN ,48,male,Diabetes,Metformin,,124/73,235,contact@domain.com,814-224-9774
+james miller,0,FEMALE ,Heart Disease,Aspirin,2021-02-26,136/85,261,name@hospital.org,
+  LAURA DAVIS ,37,Male,Diabetes,Metformin,2023-05-15,122/78,227,name@hospital.org,442-144-2777
+William Taylor,50,FEMALE ,Hypertension,Lisinopril,2024-11-05,141/93,253,william122@mail.com,460-286-3222
+maria wilson,36,male,Asthma,Montelukast,2023-06-27,116/73,193,contact@domain.com,106-802-9436
+Rahul Wilson,35,Female,Diabetes,Metformin,2022-08-05,108/62,245,name@hospital.org,284-413-6053
+  EMILY SHARMA ,46,Male,Hypertension,Lisinopril,2023-08-07,146/94,243,emily125@mail.com,302-483-1307
+Sarah Smith,0,Male,Hypertension,Lisinopril,2020-10-30,168/111,199,sarah126@mail.com,860-383-6003
+William Anderson,81,Male,Heart Disease,Atorvastatin,,150/90,284,name@hospital.org,572-327-3055
+Robert Patel,73,Male,Heart Disease,Lisinopril,2022-06-12,143/93,204,name@hospital.org,101-482-3810
+Robert Davis,75,Male,Hypertension,Lisinopril,2021-06-12,165/105,207,robert.davis@hospital.org,
+  RAHUL BROWN ,26,FEMALE ,Hypertension,Lisinopril,2020-04-30,135/83,188,contact@domain.com,669-515-1721
+  JANE DAVIS ,77,Male,Hypertension,Metformin,2022-12-03,149/93,202,name@hospital.org,347-270-7130
+Sarah Miller,47,Male,Heart Disease,Aspirin,2024-08-27,149/90,235,contact@domain.com,967-509-7642
+Rahul Garcia,50,Male,Hypertension,None,2022-11-05,136/86,0,rahul.garcia@hospital.org,763-186-9464
+Emily Sharma,10,FEMALE ,Asthma,Montelukast,2021-01-23,120/71,120,emily134@mail.com,
+Maria Smith,68,Female,Hypertension,Amlodipine,2021-07-29,186/105,225,maria135@mail.com,935-751-5818
+David Martinez,55,Male,Hypertension,Amlodipine,2022-01-05,151/91,165,david136@mail.com,864-186-5178
+david thomas,27,None,Asthma,Albuterol,2023-11-08,126/80,0,name@hospital.org,
+Priya Brown,47, Male,Diabetes,Metformin,2022-12-21,122/67,231,priya.brown@hospital.org,452-891-2799
+Emily Thomas,34,None,Heart Disease,Aspirin,2022-08-09,127/81,194,contact@domain.com,
+William Taylor,48,male,Diabetes,Insulin,2024-02-29,115/65,189,william.taylor@hospital.org,668-382-2968
+Jane Garcia,50,None,Diabetes,Metformin,2023-08-23,126/78,187,contact@domain.com,761-332-8459
+Jane Wilson,11,Other,Asthma,Montelukast,2021-12-07,103/60,144,jane142@mail.com,929-206-4813
+  LAURA THOMAS ,59,Female,Hypertension,Lisinopril,2021-04-27,158/93,236,laura.thomas@hospital.org,
+Robert Davis,69,Other,Diabetes,Insulin,2021-10-16,136/88,238,name@hospital.org,248-848-9543
+maria lee,61,None,Hypertension,Amlodipine,2020-08-19,146/84,268,maria145@mail.com,
+robert patel,84,Female,Heart Disease,Aspirin,2024-04-04,137/90,271,contact@domain.com,174-561-9371
+rahul wilson,39,Female,Hypertension,Lisinopril,2020-10-30,130/82,194,name@hospital.org,721-521-7829
+Priya Garcia,0, Male,Hypertension,Amlodipine,2024-10-28,155/89,194,contact@domain.com,721-369-1509
+laura taylor,45,Female,Diabetes,Insulin,2021-09-03,117/81,197,laura.taylor@hospital.org,842-319-9988
+Sarah Brown,40,Male,Diabetes,Insulin,2022-08-11,113/66,227,name@hospital.org,277-342-8367
+priya johnson,48,FEMALE ,Asthma,Albuterol,2021-03-30,121/69,204,contact@domain.com,
+william johnson,48,Male,Heart Disease,Aspirin,not recorded,137/76,0,william.johnson@hospital.org,469-483-8019
+Emily Johnson,71,male,Heart Disease,Atorvastatin,2022-10-20,160/97,222,emily.johnson@hospital.org,
+  RAHUL JOHNSON ,0,Male,Heart Disease,Atorvastatin,2021-12-28,148/90,237,rahul154@mail.com,231-473-2440
+David Garcia,87,None,Hypertension,Amlodipine,2024-08-01,153/94,257,david155@mail.com,444-276-6883
+Linda Johnson,52,Male,Asthma,Albuterol,2020-05-08,137/91,204,contact@domain.com,196-225-9518
+Anita Wilson,62,Male,Hypertension,Lisinopril,2020-07-29,161/99,184,contact@domain.com,697-826-1298
+jane martinez,59,Female,Heart Disease,Atorvastatin,not recorded,142/83,210,name@hospital.org,424-733-1655
+william garcia,69,Other,Heart Disease,Atorvastatin,2024-10-25,152/94,205,william.garcia@hospital.org,
+priya brown,14,Female,Asthma,Montelukast,2023-03-11,133/81,157,contact@domain.com,985-692-3832
+  JOHN BROWN ,42,Male,Diabetes,Albuterol,2020-10-17,126/75,215,contact@domain.com,343-543-4779
+Michael Garcia,11,Other,Asthma,Montelukast,,100/70,148,michael.garcia@hospital.org,746-327-6298
+sarah sharma,69,Female,Heart Disease,Aspirin,2022-09-12,139/89,264,name@hospital.org,837-454-4011
+Rahul Davis,36, Male,Asthma,Albuterol,,118/65,133,rahul164@mail.com,631-809-6148
+sarah wilson,55,Female,Diabetes,Metformin,2021-10-24,111/67,244,name@hospital.org,812-953-8829
+william anderson,67, Male,Diabetes,Insulin,2023-03-15,142/89,281,william166@mail.com,469-746-5706
+michael miller,42, Male,Hypertension,Amlodipine,2023-06-14,178/107,212,contact@domain.com,587-413-7975
+  RAHUL PATEL ,72,Male,Heart Disease,Atorvastatin,2020-09-25,145/94,0,name@hospital.org,786-640-5709
+David Thomas,56,Male,Hypertension,Amlodipine,2020-04-10,153/92,231,contact@domain.com,956-979-4766
+michael taylor,33,Other,Diabetes,Insulin,2023-02-11,102/66,184,michael.taylor@hospital.org,842-578-5913
+Anita Davis,5,Male,Asthma,Montelukast,2023-04-15,102/63,165,anita171@mail.com,521-305-9829
+  JANE PATEL ,60,Female,Hypertension,Lisinopril,2020-03-26,164/98,201,name@hospital.org,796-835-4599
+  DAVID DAVIS ,39,Female,Asthma,Albuterol,2024-04-21,127/81,189,david173@mail.com,371-707-4464
+william davis,19, Male,Asthma,Albuterol,2023-05-06,113/72,191,william174@mail.com,585-528-8857
+Robert Johnson,47,Female,Heart Disease,Metformin,2020-09-18,149/81,254,contact@domain.com,187-973-5117
+  SARAH MILLER ,29,Male,Asthma,Albuterol,2023-11-23,124/76,161,sarah176@mail.com,875-889-7803
+Laura Martinez,51,None,Heart Disease,Atorvastatin,2021-12-10,121/68,232,name@hospital.org,815-242-5016
+  ROBERT THOMAS ,33,Male,Asthma,Albuterol,2020-03-20,116/72,176,name@hospital.org,356-291-7338
+Sarah Johnson,68,Female,Heart Disease,Aspirin,2024-09-28,143/94,265,sarah.johnson@hospital.org,767-303-3842
+  WILLIAM LEE ,75,Female,Heart Disease,Atorvastatin,2022-03-09,144/92,269,contact@domain.com,
+Rahul Sharma,40,Female,Asthma,Albuterol,2020-04-16,110/67,154,name@hospital.org,
+william brown,53,male,Hypertension,Metformin,2020-11-20,140/80,214,contact@domain.com,665-778-3232
+James Lee,63,Other,Heart Disease,Lisinopril,2024-04-08,147/88,298,contact@domain.com,
+  DAVID SHARMA ,60,Male,Diabetes,Metformin,2022-12-10,106/67,204,david.sharma@hospital.org,
+Maria Brown,31,None,Diabetes,Metformin,2024-06-14,111/68,194,name@hospital.org,
+William Anderson,34,Male,Hypertension,Amlodipine,2020-12-21,146/97,196,contact@domain.com,126-142-4552
+Laura Taylor,21,None,Asthma,Albuterol,2024-06-09,118/73,156,laura187@mail.com,516-530-1468
+James Thomas,45,Other,Heart Disease,Aspirin,2022-02-16,137/85,240,contact@domain.com,897-197-1962
+Priya Johnson,55,Female,Diabetes,None,2023-08-03,132/85,221,priya189@mail.com,248-462-7331
+  SARAH SHARMA ,57,Male,Hypertension,Lisinopril,2021-11-26,157/95,196,sarah190@mail.com,391-843-1853
+Rahul Sharma,70,Female,Heart Disease,Aspirin,2021-02-17,140/72,211,rahul.sharma@hospital.org,819-554-3939
+John Brown,65, Male,Heart Disease,Atorvastatin,not recorded,131/88,214,name@hospital.org,232-193-6248
+Daniel Wilson,0, Male,Heart Disease,None,2023-04-23,140/83,281,name@hospital.org,498-353-7756
+Laura Sharma,76,Female,Heart Disease,Atorvastatin,2024-01-21,134/83,236,name@hospital.org,635-398-7831
+maria patel,57,male,Heart Disease,Aspirin,,140/85,242,contact@domain.com,474-432-9002
+Sarah Johnson,68,male,Heart Disease,Aspirin,2023-01-22,156/96,272,name@hospital.org,
+  MARIA GARCIA ,52,Male,Heart Disease,Aspirin,2021-10-24,121/77,275,maria197@mail.com,
+Robert Patel,70,Female,Heart Disease,Atorvastatin,2020-07-22,151/87,263,robert.patel@hospital.org,712-958-5270
+Laura Anderson,52, Male,Hypertension,Amlodipine,2022-12-09,154/93,257,laura.anderson@hospital.org,233-799-6800
+Daniel Davis,43,Female,Heart Disease,Atorvastatin,2022-10-02,147/103,260,contact@domain.com,814-899-9006
+Laura Davis,35,Female,Diabetes,Metformin,not recorded,116/68,215,contact@domain.com,212-545-9723
+anita miller,64,Female,Heart Disease,Atorvastatin,2022-07-25,130/80,244,name@hospital.org,
+Robert Patel,49,Male,Diabetes,Insulin,2024-05-01,119/73,262,name@hospital.org,314-191-4793
+robert brown,56,male,Heart Disease,Atorvastatin,2021-08-09,154/88,233,robert.brown@hospital.org,
+William Taylor,40,Female,Asthma,Montelukast,2023-08-22,125/80,166,contact@domain.com,233-260-4626
+emily miller,62,Female,Heart Disease,Lisinopril,2023-11-24,136/80,251,contact@domain.com,
+James Lee,42, Male,Hypertension,Lisinopril,2023-05-04,148/88,220,james.lee@hospital.org,984-150-4360
+Emily Anderson,43,male,Diabetes,Metformin,2021-04-16,116/77,249,name@hospital.org,344-350-4614
+David Patel,85,male,Heart Disease,Atorvastatin,2023-08-02,150/88,303,david.patel@hospital.org,631-311-7940
+Daniel Thomas,65,Female,Heart Disease,Aspirin,2024-09-09,144/95,263,daniel210@mail.com,
+Robert Davis,65,Female,Heart Disease,Aspirin,2021-11-20,150/95,263,robert211@mail.com,108-722-4912
+Rahul Garcia,29,FEMALE ,Asthma,Albuterol,,116/70,195,rahul.garcia@hospital.org,539-676-7075
+Jane Lee,60, Male,Heart Disease,Atorvastatin,2022-08-17,132/80,290,jane.lee@hospital.org,901-340-9466
+Maria Anderson,43,Female,Hypertension,Lisinopril,2021-11-25,160/97,172,contact@domain.com,472-819-3207
+Daniel Thomas,82,Male,Hypertension,Amlodipine,2023-07-07,153/88,229,name@hospital.org,540-204-6518
+  EMILY JOHNSON ,56,Female,Heart Disease,Albuterol,not recorded,143/88,268,contact@domain.com,897-919-8068
+robert garcia,68,Male,Hypertension,Lisinopril,2022-10-23,169/99,207,contact@domain.com,757-881-1295
+Linda Anderson,48,Other,Hypertension,Amlodipine,2023-01-23,137/94,207,name@hospital.org,972-730-5315
+  JAMES SHARMA ,38, Male,Asthma,Albuterol,2021-02-03,117/71,186,name@hospital.org,784-214-4120
+  JAMES BROWN ,59,Male,Hypertension,Lisinopril,,159/92,239,name@hospital.org,324-345-1739
+Rahul Sharma,60,FEMALE ,Hypertension,Amlodipine,2022-09-29,135/75,188,rahul.sharma@hospital.org,707-380-5245
+Priya Thomas,32,Male,Diabetes,Insulin,2020-12-21,109/77,169,name@hospital.org,925-879-5523
+  MARIA JOHNSON ,85,None,Heart Disease,Atorvastatin,2020-05-20,147/86,288,contact@domain.com,605-636-7194
+daniel thomas,53,male,Heart Disease,Atorvastatin,2021-06-07,138/79,241,daniel.thomas@hospital.org,625-758-3203
+  WILLIAM ANDERSON ,73,Female,Hypertension,Amlodipine,,152/91,197,contact@domain.com,985-343-4099
+Rahul Johnson,77,Female,Heart Disease,Atorvastatin,2020-01-24,157/95,274,rahul226@mail.com,304-837-7433
+William Anderson,50,Male,Hypertension,Amlodipine,2020-01-09,155/99,255,william227@mail.com,
+Laura Garcia,54, Male,Heart Disease,Aspirin,,128/97,245,name@hospital.org,494-533-1583
+Laura Martinez,60, Male,Hypertension,Amlodipine,2024-06-10,155/96,214,laura229@mail.com,106-519-9384
+  ROBERT LEE ,63,None,Diabetes,Metformin,,133/84,206,robert.lee@hospital.org,446-503-1859
+David Wilson,58,None,Heart Disease,Atorvastatin,2022-03-31,145/85,275,contact@domain.com,291-115-2671
+Robert Patel,45,None,Hypertension,Amlodipine,2020-12-04,149/97,260,name@hospital.org,463-141-8963
+Anita Davis,34,Female,Asthma,Albuterol,2022-01-09,120/70,188,contact@domain.com,906-964-4332
+  SARAH ANDERSON ,52,Other,Asthma,Montelukast,2022-08-06,120/78,200,name@hospital.org,
+daniel davis,41,Other,Asthma,Albuterol,2022-08-13,110/69,120,daniel.davis@hospital.org,
+Linda Smith,39,Male,Diabetes,Metformin,2020-02-22,121/76,205,contact@domain.com,103-465-5647
+Rahul Johnson,45,Male,Diabetes,Insulin,2023-03-07,114/75,198,name@hospital.org,
+  ANITA MARTINEZ ,45,Female,Diabetes,None,2020-04-04,121/76,207,anita238@mail.com,380-547-2557
+james brown,70,FEMALE ,Heart Disease,Atorvastatin,2023-05-30,135/86,244,name@hospital.org,678-224-3907
+William Garcia,65, Male,Diabetes,Metformin,2021-08-18,119/78,0,contact@domain.com,407-498-1353
+Anita Miller,45,Other,Heart Disease,Atorvastatin,2021-06-23,133/88,208,contact@domain.com,548-905-8461
+michael davis,54,None,Diabetes,Metformin,2020-09-08,134/87,187,contact@domain.com,
+Linda Taylor,63,male,Hypertension,Amlodipine,not recorded,145/90,210,contact@domain.com,198-682-8165
+Robert Miller,31,Female,Hypertension,Lisinopril,2023-01-02,139/88,223,robert244@mail.com,204-323-4493
+maria brown,59,Female,Hypertension,Amlodipine,not recorded,130/75,187,maria.brown@hospital.org,672-647-1424
+Anita Wilson,62,Other,Diabetes,Insulin,2022-02-22,116/74,188,anita.wilson@hospital.org,911-444-4205
+Daniel Martinez,47,Male,Hypertension,Metformin,2020-02-12,154/96,224,daniel247@mail.com,893-459-9910
+Rahul Anderson,52,Male,Diabetes,Metformin,2020-01-05,138/83,225,contact@domain.com,965-955-7509
+Jane Johnson,77,Female,Diabetes,Insulin,2023-05-07,140/90,273,jane.johnson@hospital.org,103-928-5024
+  ANITA GARCIA ,32,None,Asthma,Montelukast,2021-12-11,97/60,192,contact@domain.com,708-530-9125
+Robert Martinez,28,Female,Asthma,Albuterol,2024-08-25,129/87,158,robert251@mail.com,
+Emily Patel,50,Male,Hypertension,Lisinopril,2021-11-24,173/104,214,name@hospital.org,649-534-5795
+  DAVID SMITH ,56,Male,Diabetes,Insulin,2021-03-18,119/74,213,david.smith@hospital.org,908-299-6040
+Daniel Smith,56, Male,Diabetes,Insulin,,127/77,265,daniel.smith@hospital.org,518-654-6800
+James Patel,54,male,Hypertension,Lisinopril,2020-07-14,159/91,210,james255@mail.com,673-691-3078
+Jane Miller,44,Female,Diabetes,Metformin,2024-06-27,111/67,199,jane256@mail.com,268-547-8081
+Maria Smith,64,Female,Hypertension,Metformin,2022-02-10,167/109,228,contact@domain.com,
+  MARIA WILSON ,29,Female,Hypertension,Amlodipine,2023-02-10,150/91,171,contact@domain.com,
+john smith,60,Other,Heart Disease,Aspirin,2023-10-08,142/93,251,john259@mail.com,
+linda davis,23,Female,Asthma,Albuterol,2020-05-27,115/61,132,linda.davis@hospital.org,258-939-7968
+Anita Brown,90, Male,Heart Disease,Atorvastatin,2020-04-14,168/105,232,contact@domain.com,
+Linda Smith,37,Male,Asthma,Albuterol,2024-01-28,126/78,158,linda262@mail.com,318-374-1614
+Anita Patel,68, Male,Hypertension,Amlodipine,,150/96,208,anita263@mail.com,349-613-5012
+laura taylor,74,Male,Heart Disease,Atorvastatin,2021-02-07,143/87,276,laura264@mail.com,
+John Miller,59,Male,Hypertension,Amlodipine,2023-02-18,156/98,186,john.miller@hospital.org,681-464-8026
+  SARAH SMITH ,48, Male,Hypertension,Lisinopril,2020-07-23,147/94,172,name@hospital.org,112-523-2637
+Michael Thomas,17,Female,Asthma,Montelukast,2023-11-01,115/70,131,name@hospital.org,362-149-1423
+Anita Sharma,36,Other,Hypertension,Amlodipine,2023-01-07,141/88,199,contact@domain.com,761-614-3095
+Emily Sharma,49,Female,Heart Disease,Atorvastatin,2020-06-17,123/81,273,name@hospital.org,357-191-7938
+Michael Smith,42,Female,Hypertension,Amlodipine,2023-09-20,139/85,173,michael270@mail.com,393-889-1167
+emily lee,80,FEMALE ,Diabetes,Metformin,2020-07-16,129/86,270,name@hospital.org,629-893-1899
+  LINDA THOMAS ,65,Female,Hypertension,Amlodipine,2021-01-26,139/85,221,linda.thomas@hospital.org,
+Michael Sharma,50,Female,Heart Disease,Albuterol,2023-08-14,142/89,320,name@hospital.org,348-174-7879
+  WILLIAM ANDERSON ,63,None,Heart Disease,Atorvastatin,2020-09-17,149/86,297,william.anderson@hospital.org,
+  JANE SMITH ,48,male,Diabetes,Metformin,2021-05-03,127/81,200,name@hospital.org,343-427-7696
+William Patel,56,Other,Hypertension,Lisinopril,2024-03-23,150/99,239,william276@mail.com,
+Sarah Patel,54,Male,Diabetes,None,2023-06-24,113/68,222,name@hospital.org,242-159-4400
+Linda Brown,47, Male,Asthma,Montelukast,,130/81,198,linda278@mail.com,873-976-1418
+Maria Johnson,30,Female,Diabetes,Metformin,2023-10-22,113/61,215,name@hospital.org,250-511-6268
+Anita Lee,47,male,Asthma,Albuterol,2020-05-15,140/93,209,anita.lee@hospital.org,663-718-2898
+Anita Lee,65,Other,Hypertension,Metformin,2023-09-21,148/91,233,contact@domain.com,390-961-7822
+David Martinez,70,Other,Diabetes,Metformin,2021-04-11,110/66,249,name@hospital.org,884-303-8837
+Priya Anderson,66,Male,Diabetes,Metformin,2020-05-20,130/75,239,priya283@mail.com,112-758-2009
+john wilson,20,Female,Asthma,Albuterol,,97/66,124,john.wilson@hospital.org,434-109-6880
+Emily Anderson,36,male,Diabetes,Metformin,2020-12-23,128/76,231,contact@domain.com,466-623-5976
+william sharma,63,Female,Hypertension,Amlodipine,2020-07-17,154/91,172,contact@domain.com,746-938-1074
+Maria Martinez,14,Male,Asthma,Montelukast,2021-06-19,105/64,124,maria287@mail.com,285-816-1946
+Rahul Brown,61,None,Heart Disease,Atorvastatin,2024-10-17,121/71,259,rahul.brown@hospital.org,879-814-4040
+Maria Taylor,66,Other,Hypertension,Lisinopril,2021-11-30,150/93,217,contact@domain.com,402-900-1900
+  DANIEL SHARMA ,55,Male,Hypertension,Albuterol,2021-04-03,151/86,244,daniel.sharma@hospital.org,825-404-6785
+Maria Thomas,61,None,Hypertension,Lisinopril,2023-08-10,161/100,195,contact@domain.com,944-196-9765
+Maria Johnson,50,Female,Asthma,Albuterol,2022-10-24,124/78,185,maria.johnson@hospital.org,984-588-3943
+  PRIYA MARTINEZ ,61, Male,Diabetes,Metformin,2020-02-06,118/78,223,contact@domain.com,
+robert garcia,52,Other,Diabetes,Insulin,2020-04-22,118/74,255,robert.garcia@hospital.org,549-524-3232
+Linda Davis,49,None,Diabetes,Insulin,2021-05-24,120/66,247,name@hospital.org,455-210-9495
+Robert Brown,29,Male,Asthma,Albuterol,2020-01-28,121/73,165,name@hospital.org,767-205-1167
+Daniel Wilson,34,FEMALE ,Asthma,Albuterol,2022-06-21,115/67,0,contact@domain.com,339-377-4788
+Priya Martinez,56,Male,Heart Disease,Atorvastatin,2024-01-02,138/80,270,contact@domain.com,274-402-6192
+Michael Brown,57,FEMALE ,Hypertension,Amlodipine,2021-09-12,141/76,197,contact@domain.com,
+robert martinez,66,Female,Hypertension,Lisinopril,2020-10-27,142/87,210,contact@domain.com,149-793-3501
+Sarah Taylor,78,Male,Heart Disease,Aspirin,2021-03-16,161/100,265,contact@domain.com,417-970-5620
+Emily Garcia,0,Male,Diabetes,Insulin,2023-02-25,106/76,259,name@hospital.org,598-767-2747
+  JANE LEE ,44,Male,Hypertension,Lisinopril,2021-03-28,150/93,208,name@hospital.org,219-986-6299
+Emily Johnson,79,Male,Heart Disease,Aspirin,2021-08-24,141/96,270,name@hospital.org,817-413-7635
+Maria Thomas,76,Female,Heart Disease,Aspirin,2024-09-26,158/101,241,name@hospital.org,578-213-6927
+Priya Brown,55,None,Diabetes,Insulin,2022-05-11,118/76,250,priya.brown@hospital.org,187-838-3045
+John Brown,53,Male,Hypertension,Amlodipine,,145/87,237,contact@domain.com,678-561-4328
+john lee,0,Male,Asthma,Montelukast,2021-12-17,106/67,142,john308@mail.com,229-551-5660
+david wilson,14,Male,Asthma,Montelukast,2023-10-18,105/70,135,name@hospital.org,406-831-1472
+Emily Thomas,14,Male,Asthma,Albuterol,2023-11-03,120/82,180,emily310@mail.com,980-109-5768
+Michael Lee,25,Female,Asthma,None,2023-04-25,111/65,164,michael.lee@hospital.org,
+david thomas,67,Other,Hypertension,Lisinopril,2024-07-02,153/99,247,name@hospital.org,
+maria thomas,57,Female,Heart Disease,Atorvastatin,2022-08-14,130/85,249,contact@domain.com,959-881-5120
+Michael Miller,75,None,Hypertension,Amlodipine,2020-11-18,147/95,198,michael.miller@hospital.org,
+Daniel Brown,45,Female,Heart Disease,Aspirin,2021-04-08,155/89,274,daniel315@mail.com,247-394-6274
+michael smith,67,male,Heart Disease,Atorvastatin,2024-11-09,139/81,273,michael316@mail.com,849-586-8103
+Rahul Martinez,53,None,Diabetes,None,2023-08-26,141/90,193,contact@domain.com,246-462-3372
+Jane Wilson,65, Male,Heart Disease,Aspirin,not recorded,151/92,0,jane318@mail.com,153-601-2286
+Robert Patel,41,Male,Heart Disease,Atorvastatin,2020-02-20,124/73,226,contact@domain.com,341-147-8436
+Robert Brown,29,Female,Asthma,Albuterol,2021-12-02,103/60,144,contact@domain.com,554-539-9663
+Rahul Taylor,77,Other,Heart Disease,Aspirin,2024-02-25,149/88,315,rahul321@mail.com,383-797-2486
+Anita Garcia,28,Male,Heart Disease,Aspirin,2023-06-27,138/80,213,contact@domain.com,
+  WILLIAM MARTINEZ ,26,None,Hypertension,Amlodipine,2022-06-11,149/90,181,contact@domain.com,
+Linda Martinez,37,Male,Asthma,Albuterol,2020-11-25,125/80,195,linda324@mail.com,986-259-9502
+Priya Wilson,55,Female,Asthma,Albuterol,2021-05-23,124/78,171,priya.wilson@hospital.org,971-478-2694
+  EMILY MILLER ,38,None,Asthma,Montelukast,2023-05-15,110/69,174,contact@domain.com,902-207-3576
+robert johnson,82,FEMALE ,Heart Disease,Atorvastatin,2023-11-09,154/93,241,contact@domain.com,885-566-6770
+Rahul Anderson,39,Male,Diabetes,Lisinopril,2020-11-25,112/75,181,rahul.anderson@hospital.org,531-272-2175
+Sarah Smith,56,Other,Diabetes,Metformin,2023-11-04,120/76,225,contact@domain.com,630-603-3460
+  ROBERT TAYLOR ,15,Female,Asthma,Montelukast,2023-08-21,112/65,152,name@hospital.org,
+David Johnson,84,Female,Heart Disease,Metformin,2020-11-07,152/105,278,david.johnson@hospital.org,
+michael anderson,57,Male,Diabetes,Insulin,2020-11-16,126/72,193,name@hospital.org,571-768-1112
+William Garcia,30,Female,Asthma,Albuterol,2020-04-07,118/70,0,william.garcia@hospital.org,710-380-3663
+William Lee,0,None,Heart Disease,Aspirin,2020-05-09,141/82,241,contact@domain.com,
+Anita Taylor,23,Female,Asthma,Albuterol,2022-01-16,114/78,133,anita.taylor@hospital.org,176-518-1421
+Rahul Brown,80,Male,Hypertension,Lisinopril,2023-09-05,145/95,274,rahul336@mail.com,
+  MARIA JOHNSON ,36,Male,Asthma,Montelukast,2023-12-11,124/71,157,name@hospital.org,620-129-6674
+robert smith,70,Female,Heart Disease,Aspirin,2022-07-12,156/95,284,name@hospital.org,273-367-4762
+  DANIEL GARCIA ,25,Female,Asthma,Albuterol,2024-01-29,122/87,173,name@hospital.org,825-938-5935
+Rahul Sharma,77,Female,Heart Disease,Aspirin,2020-01-25,144/87,281,rahul.sharma@hospital.org,589-704-2646
+Rahul Davis,52,Female,Diabetes,Metformin,2020-01-18,129/88,237,contact@domain.com,703-701-3172
+  ANITA SHARMA ,45,Female,Diabetes,Lisinopril,,126/79,177,anita.sharma@hospital.org,776-219-5865
+Jane Davis,0,Male,Heart Disease,Atorvastatin,2020-08-13,152/102,272,contact@domain.com,710-888-9118
+Jane Anderson,47,Male,Hypertension,Lisinopril,2021-01-11,145/95,257,contact@domain.com,412-931-3770
+maria thomas,59,male,Diabetes,Metformin,2022-05-03,102/66,196,maria345@mail.com,432-394-1574
+  LINDA JOHNSON ,69,Male,Diabetes,Insulin,,131/71,273,linda346@mail.com,750-509-2469
+William Smith,47,Male,Heart Disease,Aspirin,2020-08-25,141/81,224,name@hospital.org,
+Laura Johnson,53,Male,Hypertension,Lisinopril,2020-12-01,138/87,197,laura.johnson@hospital.org,
+  ANITA SMITH ,38,Female,Asthma,Montelukast,2021-03-26,113/74,188,name@hospital.org,266-273-6157
+michael lee,0,Male,Asthma,Albuterol,2024-09-15,116/77,173,contact@domain.com,407-799-1470
+Linda Anderson,76,Male,Asthma,Albuterol,2024-07-31,165/104,193,name@hospital.org,228-889-7549
+  SARAH MARTINEZ ,16, Male,Asthma,Montelukast,2022-06-14,129/84,169,sarah352@mail.com,
+david anderson,40, Male,Heart Disease,Aspirin,2023-04-08,130/87,217,contact@domain.com,214-971-3948
+William Taylor,48,Male,Hypertension,Lisinopril,2022-05-08,163/96,229,william.taylor@hospital.org,666-748-6716
+David Sharma,0,Male,Asthma,Montelukast,2023-12-25,115/82,136,david.sharma@hospital.org,204-489-4022
+  WILLIAM SMITH ,37,Other,Asthma,Albuterol,2022-12-14,113/66,174,contact@domain.com,214-921-9289
+Linda Martinez,26,FEMALE ,Asthma,Montelukast,2020-06-11,109/66,210,linda357@mail.com,609-321-5242
+  JANE PATEL ,32,FEMALE ,Asthma,Montelukast,2023-10-28,104/68,181,jane.patel@hospital.org,444-587-3472
+  LINDA BROWN ,55,Male,Hypertension,Amlodipine,2022-06-02,150/88,195,name@hospital.org,763-943-5440
+James Anderson,19,Other,Asthma,Montelukast,2020-08-31,107/68,159,james360@mail.com,
+james miller,5,Female,Asthma,Albuterol,2024-02-10,106/61,192,contact@domain.com,
+Emily Davis,46,Other,Diabetes,Metformin,2022-02-24,128/76,202,contact@domain.com,829-751-4503
+Anita Thomas,52,Female,Diabetes,Metformin,2020-01-16,123/81,221,contact@domain.com,
+Michael Patel,66,FEMALE ,Hypertension,Amlodipine,2024-10-30,168/111,238,name@hospital.org,777-440-9611
+Anita Anderson,35,Male,Asthma,Montelukast,2020-01-12,122/65,153,anita.anderson@hospital.org,331-942-2156
+Jane Patel,48,Male,Diabetes,Metformin,,127/81,201,contact@domain.com,372-479-5359
+Emily Martinez,75,Female,Heart Disease,Atorvastatin,2023-11-14,138/93,293,emily.martinez@hospital.org,
+Emily Wilson,70,Male,Hypertension,Lisinopril,2022-12-23,159/104,216,emily.wilson@hospital.org,769-763-4369
+Emily Brown,20,Male,Asthma,Albuterol,2020-06-02,106/63,143,contact@domain.com,866-406-5168
+Anita Thomas,26,Male,Asthma,Albuterol,2023-12-09,121/71,156,anita.thomas@hospital.org,101-483-4893
+daniel brown,54,Male,Diabetes,Metformin,2022-09-04,113/78,255,contact@domain.com,107-586-8842
+Linda Garcia,90, Male,Heart Disease,Aspirin,2020-05-06,131/88,273,linda372@mail.com,330-324-4282
+James Patel,55,Male,Heart Disease,Atorvastatin,2020-03-03,150/94,287,james373@mail.com,194-485-1213
+  EMILY BROWN ,40,Male,Asthma,Albuterol,2023-05-29,112/69,168,name@hospital.org,968-698-2268
+Sarah Taylor,83,Male,Hypertension,Lisinopril,,169/111,227,contact@domain.com,135-173-9479
+Sarah Smith,69,Female,Hypertension,Lisinopril,2023-05-19,158/93,224,contact@domain.com,
+John Lee,0,Female,Diabetes,Metformin,2021-11-14,124/80,130,john377@mail.com,934-569-9345
+  LINDA SMITH ,16,Female,Hypertension,None,2020-01-26,145/87,214,linda.smith@hospital.org,170-765-2758
+Daniel Brown,49,Male,Heart Disease,Atorvastatin,2020-05-11,149/94,230,daniel379@mail.com,839-592-5102
+rahul garcia,71,Female,Heart Disease,Aspirin,2022-08-11,148/93,277,contact@domain.com,271-520-3974
+  DAVID TAYLOR ,47,Female,Diabetes,Metformin,2024-03-26,109/60,266,david.taylor@hospital.org,261-129-8251
+james smith,55,None,Heart Disease,Atorvastatin,2023-01-04,163/100,274,name@hospital.org,993-341-1575
+Emily Smith,71,Other,Hypertension,Lisinopril,2020-02-16,152/96,202,emily383@mail.com,869-214-6176
+Sarah Lee,64,Other,Heart Disease,Aspirin,2023-06-20,152/95,257,contact@domain.com,568-467-7075
+John Smith,61,Male,Hypertension,Lisinopril,2023-11-17,164/105,0,contact@domain.com,575-691-7336
+Daniel Johnson,0,Other,Hypertension,Amlodipine,2021-04-21,135/80,222,daniel386@mail.com,707-452-2360
+  SARAH TAYLOR ,60,FEMALE ,Hypertension,Lisinopril,,131/73,218,contact@domain.com,725-969-8565
+laura taylor,0,Male,Diabetes,Insulin,2024-05-01,97/64,192,contact@domain.com,733-978-7271
+  EMILY TAYLOR ,0,Male,Asthma,Montelukast,2024-02-24,120/70,136,emily389@mail.com,851-156-7198
+jane taylor,70,Male,Heart Disease,Aspirin,2023-04-10,140/81,254,jane.taylor@hospital.org,
+David Lee,29,male,Heart Disease,Atorvastatin,2021-08-03,120/77,223,contact@domain.com,563-666-7007
+  JAMES BROWN ,48,FEMALE ,Heart Disease,Atorvastatin,2022-04-18,138/83,238,contact@domain.com,519-445-2506
+William Patel,39,Female,Asthma,Albuterol,2023-08-02,123/77,165,contact@domain.com,796-241-3126
+Michael Brown,78,Male,Diabetes,Metformin,2024-10-04,133/84,237,contact@domain.com,420-134-1081
+John Smith,52,FEMALE ,Heart Disease,Atorvastatin,2024-05-29,128/83,222,john395@mail.com,710-847-4039
+Laura Anderson,62,Male,Heart Disease,Albuterol,2021-08-21,141/91,239,contact@domain.com,947-781-4950
+jane brown,38,Female,Diabetes,Insulin,,116/71,254,jane.brown@hospital.org,221-574-3090
+Rahul Thomas,24,male,Asthma,Albuterol,2023-02-12,107/66,201,rahul398@mail.com,281-828-6096
+linda wilson,68,FEMALE ,Hypertension,Amlodipine,2022-10-18,151/84,217,contact@domain.com,821-484-1255
+  JANE LEE ,62,Male,Heart Disease,Aspirin,2021-04-14,151/97,307,contact@domain.com,572-855-8927
+  ROBERT WILSON ,60,Female,Diabetes,Metformin,2022-02-01,104/64,236,robert401@mail.com,213-489-4395
+David Patel,0,FEMALE ,Asthma,Montelukast,2024-09-02,115/82,191,david402@mail.com,854-816-9377
+  LAURA MARTINEZ ,64,Female,Heart Disease,Atorvastatin,,160/102,252,name@hospital.org,647-944-4630
+  LAURA THOMAS ,52, Male,Diabetes,Metformin,2024-03-08,113/76,201,name@hospital.org,877-775-4384
+Sarah Garcia,59,Male,Hypertension,Lisinopril,2021-03-23,163/98,211,sarah405@mail.com,897-630-2529
+william sharma,78,Male,Hypertension,Amlodipine,2022-09-07,149/92,200,william.sharma@hospital.org,357-676-4541
+john martinez,84,Other,Heart Disease,Lisinopril,2022-12-09,151/91,226,contact@domain.com,638-681-3868
+Emily Garcia,59,male,Hypertension,Lisinopril,2024-03-31,130/75,225,emily408@mail.com,130-903-9022
+Jane Thomas,49,None,Heart Disease,Aspirin,2024-10-26,137/78,276,jane409@mail.com,538-623-3682
+  SARAH BROWN ,48,Female,Hypertension,Lisinopril,2022-11-27,131/78,182,sarah410@mail.com,979-343-6618
+  RAHUL TAYLOR ,40,None,Asthma,Lisinopril,2020-05-11,138/89,125,rahul.taylor@hospital.org,196-346-3195
+  JAMES LEE ,34,Other,Diabetes,Metformin,,106/60,235,james412@mail.com,840-790-1566
+Anita Sharma,35,Female,Diabetes,Insulin,2024-07-14,114/66,230,contact@domain.com,180-580-4925
+rahul johnson,47,Female,Diabetes,Insulin,2020-11-18,119/76,200,rahul.johnson@hospital.org,140-429-4487
+Michael Brown,41,Male,Hypertension,Lisinopril,2021-07-13,141/92,239,contact@domain.com,833-701-6706
+Anita Smith,57,None,Diabetes,Insulin,2021-05-25,127/75,243,name@hospital.org,434-870-1267
+  DAVID MILLER ,63, Male,Heart Disease,Atorvastatin,2021-04-24,147/80,285,david.miller@hospital.org,
+priya sharma,63,Female,Heart Disease,Aspirin,2023-02-17,142/93,238,priya.sharma@hospital.org,
+michael johnson,16,None,Asthma,Montelukast,2021-11-14,122/74,170,name@hospital.org,
+James Anderson,30,Male,Hypertension,Amlodipine,2020-09-04,147/96,222,james420@mail.com,540-724-2123
+Priya Johnson,63,Female,Diabetes,Metformin,2024-11-16,133/71,231,priya.johnson@hospital.org,937-220-8099
+  DANIEL DAVIS ,85,Male,Hypertension,Albuterol,2022-05-27,157/103,253,name@hospital.org,726-259-4505
+David Brown,58,Female,Diabetes,Metformin,2024-11-06,135/89,284,david.brown@hospital.org,413-416-6125
+Laura Wilson,40,Female,Hypertension,Amlodipine,2024-11-30,161/102,228,laura.wilson@hospital.org,305-522-9098
+Rahul Wilson,64, Male,Heart Disease,Atorvastatin,2024-01-20,151/92,255,rahul.wilson@hospital.org,893-419-8132
+Anita Martinez,90,Female,Heart Disease,Aspirin,2022-03-30,156/99,315,contact@domain.com,709-307-1140
+Priya Wilson,40,Female,Hypertension,Lisinopril,,154/91,191,priya.wilson@hospital.org,945-791-8069
+James Martinez,50,Female,Diabetes,None,2021-07-01,124/83,202,james.martinez@hospital.org,643-718-1387
+John Sharma,0,FEMALE ,Diabetes,Metformin,2022-04-06,113/77,223,name@hospital.org,854-441-6829
+david thomas,20,Female,Asthma,Montelukast,2021-07-30,122/75,204,contact@domain.com,466-194-2500
+  DANIEL PATEL ,40,FEMALE ,Hypertension,Lisinopril,2020-08-30,156/98,189,contact@domain.com,211-874-6253
+maria lee,64,FEMALE ,Heart Disease,Atorvastatin,2024-03-29,157/107,266,maria.lee@hospital.org,790-453-6712
+David Martinez,55,Female,Heart Disease,Atorvastatin,2024-08-13,146/88,226,david433@mail.com,580-530-8615
+Daniel Anderson,40,None,Hypertension,None,2022-04-03,159/96,193,contact@domain.com,317-609-9650
+Michael Martinez,40,Male,Diabetes,Insulin,2022-09-02,107/72,234,contact@domain.com,897-795-7244
+Anita Garcia,55,Female,Diabetes,Insulin,2021-12-05,111/76,261,anita436@mail.com,958-596-7608
+Emily Garcia,69,None,Heart Disease,Aspirin,2024-03-21,144/86,266,name@hospital.org,250-362-2487
+Jane Sharma,0,Female,Asthma,Albuterol,2024-05-06,116/72,120,name@hospital.org,921-655-3446
+Jane Smith,27, Male,Asthma,Albuterol,2024-09-22,114/61,132,name@hospital.org,
+Maria Sharma,9, Male,Asthma,Albuterol,2022-03-09,123/80,120,maria.sharma@hospital.org,
+Daniel Garcia,40,FEMALE ,Diabetes,Insulin,2021-10-02,120/71,193,name@hospital.org,774-810-9507
+  ANITA SHARMA ,49,Male,Hypertension,Lisinopril,2020-10-11,155/94,219,anita442@mail.com,645-645-9096
+laura johnson,0,Male,Asthma,Montelukast,,110/69,210,contact@domain.com,357-638-5037
+James Taylor,18,male,Asthma,Albuterol,2023-08-23,113/70,204,james444@mail.com,669-299-8190
+Rahul Garcia,52,Female,Hypertension,Lisinopril,2022-08-22,167/108,193,rahul.garcia@hospital.org,
+John Sharma,62,Male,Hypertension,Lisinopril,not recorded,151/91,218,name@hospital.org,837-991-7841
+Michael Anderson,69,male,Heart Disease,Aspirin,2024-04-01,140/88,186,name@hospital.org,
+Robert Miller,73,Female,Heart Disease,Aspirin,2021-02-28,138/87,267,robert448@mail.com,205-224-4473
+  JANE JOHNSON ,41,Male,Hypertension,Amlodipine,2022-04-14,145/87,154,jane449@mail.com,266-515-3499
+  ROBERT LEE ,48, Male,Diabetes,Metformin,2020-01-07,134/87,228,name@hospital.org,
+  RAHUL SMITH ,52, Male,Heart Disease,Aspirin,2021-08-18,143/97,253,name@hospital.org,
+David Martinez,13,Male,Diabetes,Metformin,2024-07-18,130/79,213,contact@domain.com,396-117-4090
+Sarah Garcia,0,Male,Diabetes,Insulin,2024-02-23,116/65,211,sarah.garcia@hospital.org,291-329-1470
+robert miller,29,Male,Asthma,Albuterol,not recorded,115/72,203,robert454@mail.com,127-246-5029
+david thomas,64,Other,Diabetes,Metformin,2022-07-02,120/69,237,name@hospital.org,
+Michael Brown,0,Female,Diabetes,Metformin,2020-10-18,141/85,208,michael456@mail.com,337-331-1062
+  WILLIAM THOMAS ,41,Male,Diabetes,Metformin,2021-03-04,120/74,197,name@hospital.org,
+sarah martinez,17,Female,Asthma,Montelukast,2024-04-13,123/68,150,sarah458@mail.com,
+priya wilson,37,male,Asthma,Albuterol,2024-02-01,133/80,170,name@hospital.org,688-427-2041
+Laura Sharma,71,FEMALE ,Diabetes,Metformin,2022-01-12,149/98,227,laura460@mail.com,933-834-8421
+  MARIA BROWN ,77,None,Heart Disease,Aspirin,2023-05-22,154/96,237,maria461@mail.com,977-953-1255
+David Thomas,34,FEMALE ,Asthma,Metformin,2023-12-03,122/71,182,david.thomas@hospital.org,301-420-6318
+John Miller,71,Male,Heart Disease,Atorvastatin,not recorded,140/90,282,contact@domain.com,706-441-3973
+  WILLIAM WILSON ,44,FEMALE ,Asthma,Albuterol,2020-05-20,122/69,179,name@hospital.org,713-598-4159
+  EMILY DAVIS ,62,Male,Heart Disease,Atorvastatin,,136/83,271,emily465@mail.com,446-177-9807
+emily miller,39,Female,Heart Disease,Lisinopril,2020-09-08,132/85,281,contact@domain.com,
+Jane Garcia,57,Male,Heart Disease,Aspirin,2024-04-13,153/99,249,jane.garcia@hospital.org,588-382-5078
+Jane Martinez,34,Other,Asthma,Lisinopril,2020-05-26,125/82,170,contact@domain.com,165-632-8473
+  MICHAEL BROWN ,59,Male,Heart Disease,Atorvastatin,2024-01-29,140/87,233,michael469@mail.com,655-843-4761
+Emily Johnson,37,Female,Heart Disease,Atorvastatin,,154/101,249,emily.johnson@hospital.org,
+Sarah Sharma,45,Female,Heart Disease,Aspirin,2022-02-10,131/88,244,sarah471@mail.com,347-907-3373
+Maria Miller,63,Male,Heart Disease,Aspirin,2020-08-22,133/86,241,name@hospital.org,950-206-9880
+  LINDA WILSON ,65,Male,Hypertension,Albuterol,2021-12-02,132/77,236,name@hospital.org,
+Rahul Anderson,0,None,Hypertension,Metformin,2021-10-22,167/107,147,contact@domain.com,153-859-7629
+Maria Miller,28,Female,Asthma,Lisinopril,2020-12-16,120/85,129,maria.miller@hospital.org,596-160-9595
+james brown,73, Male,Diabetes,Insulin,2024-05-06,113/66,271,name@hospital.org,611-157-7471
+Rahul Lee,38,Female,Diabetes,Insulin,2022-03-04,110/64,193,rahul477@mail.com,886-997-6256
+Sarah Wilson,58,Female,Diabetes,Metformin,2021-12-13,136/85,260,sarah478@mail.com,602-864-7555
+Emily Garcia,72,FEMALE ,Heart Disease,Atorvastatin,2024-11-25,148/89,230,contact@domain.com,
+Jane Martinez,13,Female,Asthma,Albuterol,2021-10-13,115/72,172,jane480@mail.com,980-622-4560
+Linda Lee,57,Male,Heart Disease,Atorvastatin,2022-11-08,132/71,265,linda.lee@hospital.org,165-793-1925
+William Johnson,56,None,Heart Disease,Aspirin,,144/92,243,william482@mail.com,338-404-6439
+Jane Johnson,45,Female,Asthma,Albuterol,2023-10-26,122/75,215,jane.johnson@hospital.org,
+James Martinez,25,FEMALE ,Asthma,Albuterol,2023-08-20,95/69,148,name@hospital.org,100-575-5809
+Linda Brown,70,Female,Hypertension,Amlodipine,2022-02-16,152/94,260,contact@domain.com,416-688-2287
+Emily Johnson,51,Male,Hypertension,Amlodipine,,164/93,255,contact@domain.com,
+  SARAH MARTINEZ ,49,FEMALE ,Diabetes,Insulin,2022-11-18,126/69,229,sarah487@mail.com,465-726-8026
+James Patel,0,Other,Heart Disease,Aspirin,2023-03-27,149/85,245,contact@domain.com,799-674-4411
+William Miller,51,Male,Diabetes,Insulin,,138/79,212,william489@mail.com,236-734-9717
+Daniel Thomas,0,Female,Heart Disease,Lisinopril,2021-09-02,155/92,274,contact@domain.com,775-310-4421
+robert wilson,0,Male,Asthma,Montelukast,2020-03-31,131/80,147,robert.wilson@hospital.org,406-300-2667
+  EMILY DAVIS ,78,Other,Heart Disease,None,2023-11-13,128/79,203,emily.davis@hospital.org,909-627-4998
+Priya Garcia,38,Male,Asthma,Lisinopril,,118/70,156,priya493@mail.com,162-540-3826
+  RAHUL PATEL ,12,Male,Asthma,Albuterol,2023-03-19,106/72,182,contact@domain.com,396-895-8260
+Rahul Sharma,62,Female,Heart Disease,Metformin,2023-06-17,143/91,232,name@hospital.org,
+  DANIEL MARTINEZ ,6,Male,Asthma,Albuterol,2023-08-28,127/79,176,daniel496@mail.com,860-998-9927
+Priya Wilson,41,FEMALE ,Asthma,Montelukast,2022-10-18,109/72,171,priya497@mail.com,965-731-4893
+Rahul Miller,49,Female,Heart Disease,Atorvastatin,2024-09-27,146/92,246,rahul.miller@hospital.org,522-391-3510
+Anita Brown,68,Female,Hypertension,None,2020-04-25,153/99,262,contact@domain.com,917-106-1193
+James Johnson,40,None,Hypertension,Lisinopril,2020-05-15,149/86,160,contact@domain.com,
+Sarah Davis,30,Female,Asthma,Albuterol,2020-07-09,102/62,156,sarah501@mail.com,422-368-1182
+William Martinez,59,Other,Diabetes,Metformin,2020-01-17,133/78,237,contact@domain.com,
+Anita Thomas,43, Male,Asthma,Montelukast,2021-11-02,130/86,202,contact@domain.com,744-418-1119
+william brown,47,Female,Asthma,Montelukast,2024-02-21,116/73,163,william.brown@hospital.org,548-861-3347
+Rahul Taylor,48,male,Diabetes,Metformin,2023-02-08,121/76,225,name@hospital.org,
+laura davis,32,Male,Asthma,Montelukast,,128/75,154,name@hospital.org,569-590-4475
+Sarah Miller,44,Male,Diabetes,Metformin,2023-02-01,139/85,251,contact@domain.com,
+laura sharma,56,None,Hypertension,Lisinopril,2021-12-05,153/98,172,contact@domain.com,
+David Martinez,70,Other,Heart Disease,Atorvastatin,,144/85,215,david.martinez@hospital.org,744-324-2027
+Robert Miller,70,Female,Hypertension,Lisinopril,2024-06-15,156/94,226,contact@domain.com,988-151-8128
+Priya Martinez,49,None,Hypertension,Amlodipine,2023-08-07,159/99,232,name@hospital.org,
+Emily Miller,81,FEMALE ,Heart Disease,Atorvastatin,2021-09-07,155/89,284,emily512@mail.com,656-385-1190
+  WILLIAM JOHNSON ,54,male,Heart Disease,Atorvastatin,2020-07-09,121/78,282,william.johnson@hospital.org,204-667-4892
+Sarah Patel,43,Male,Heart Disease,Aspirin,2020-09-14,134/86,228,name@hospital.org,
+Priya Taylor,26,Female,Asthma,Albuterol,2024-06-16,118/68,193,contact@domain.com,631-438-8626
+  ANITA ANDERSON ,73, Male,Heart Disease,Aspirin,2022-11-17,137/86,261,anita.anderson@hospital.org,
+James Taylor,53, Male,Diabetes,Insulin,2023-07-27,122/78,0,james.taylor@hospital.org,142-176-4945
+  MICHAEL DAVIS ,24,Other,Asthma,Albuterol,,112/77,163,name@hospital.org,182-948-5074
+james patel,35,Other,Hypertension,Amlodipine,2020-12-08,163/103,199,contact@domain.com,643-347-1091
+david lee,22,male,Asthma,Montelukast,2020-02-29,111/65,120,david.lee@hospital.org,
+  ANITA BROWN ,44,Other,Diabetes,Metformin,,124/75,228,anita.brown@hospital.org,
+David Smith,90,Female,Heart Disease,Aspirin,2021-09-18,144/88,297,contact@domain.com,
+David Taylor,21,FEMALE ,Asthma,Lisinopril,2022-09-29,128/79,147,david523@mail.com,
+Laura Lee,42, Male,Hypertension,Albuterol,2022-05-31,153/99,248,contact@domain.com,866-330-6900
+james thomas,31, Male,Asthma,Montelukast,2024-05-23,126/80,120,james.thomas@hospital.org,939-202-9832
+  ROBERT SHARMA ,50,FEMALE ,Diabetes,None,2021-03-08,122/69,212,name@hospital.org,776-508-3938
+David Sharma,74,Female,Heart Disease,Aspirin,2021-12-18,151/99,291,contact@domain.com,
+linda davis,41,FEMALE ,Diabetes,Insulin,not recorded,125/70,249,name@hospital.org,844-603-8357
+  DANIEL LEE ,30,Other,Asthma,Albuterol,2023-12-14,114/71,147,contact@domain.com,
+Daniel Martinez,39,male,Asthma,Montelukast,2024-09-09,113/61,162,daniel.martinez@hospital.org,352-351-1895
+Michael Taylor,44,None,Asthma,Montelukast,2021-07-21,121/84,165,michael.taylor@hospital.org,258-432-5345
+Daniel Wilson,55,Female,Hypertension,Lisinopril,2020-08-14,143/90,214,daniel.wilson@hospital.org,702-922-7300
+sarah smith,65,Male,Hypertension,Lisinopril,,160/100,215,name@hospital.org,709-714-5397
+Rahul Smith,53,male,Diabetes,Albuterol,2023-04-25,128/86,249,name@hospital.org,
+robert sharma,39,FEMALE ,Diabetes,Albuterol,2022-05-11,113/60,220,robert535@mail.com,188-446-8151
+  SARAH PATEL ,59,Male,Heart Disease,Aspirin,2021-04-01,142/93,271,sarah536@mail.com,
+Robert Brown,55,Male,Hypertension,Lisinopril,2022-11-05,168/101,215,robert537@mail.com,367-652-1944
+maria patel,37,None,Hypertension,Amlodipine,2024-03-07,138/84,0,maria.patel@hospital.org,268-119-4028
+Priya Patel,36,male,Asthma,Montelukast,2021-02-18,132/82,185,priya.patel@hospital.org,130-278-7425
+  ANITA MARTINEZ ,11,FEMALE ,Asthma,Lisinopril,2020-04-06,95/60,120,name@hospital.org,741-860-4323
+Linda Garcia,33, Male,Asthma,Montelukast,2020-10-02,131/86,179,linda541@mail.com,214-580-5461
+Rahul Brown,66,Male,Diabetes,Metformin,2021-05-09,115/74,279,rahul542@mail.com,
+Anita Miller,87,Male,Heart Disease,Aspirin,2022-03-20,149/92,289,name@hospital.org,966-785-8666
+James Lee,36,Female,Heart Disease,Aspirin,2022-12-21,135/87,258,james.lee@hospital.org,341-144-3573
+Sarah Taylor,28,Other,Asthma,Montelukast,2023-04-23,112/73,152,contact@domain.com,415-474-1222
+Laura Miller,36,Female,Asthma,Albuterol,2024-09-28,121/72,167,name@hospital.org,
+Maria Taylor,14,Male,Diabetes,Metformin,2020-11-03,121/69,137,maria547@mail.com,828-896-8431
+William Johnson,28,Female,Asthma,Lisinopril,2024-10-21,114/69,181,william.johnson@hospital.org,
+Rahul Johnson,20,Male,Asthma,Albuterol,2021-03-17,100/71,203,rahul549@mail.com,519-892-4987
+Priya Patel,39,Other,Diabetes,Metformin,not recorded,113/72,184,priya.patel@hospital.org,
+James Brown,58, Male,Hypertension,Lisinopril,,154/90,192,contact@domain.com,
+  LAURA MARTINEZ ,66,male,Heart Disease,Aspirin,2024-06-25,154/94,259,name@hospital.org,677-464-2111
+Robert Garcia,61,Male,Heart Disease,Atorvastatin,2020-11-08,136/89,257,robert553@mail.com,
+William Sharma,32, Male,Asthma,Montelukast,2023-12-28,121/74,154,name@hospital.org,237-579-4895
+James Johnson,9,Female,Asthma,Montelukast,2022-10-10,109/70,165,name@hospital.org,726-578-6727
+John Garcia,82,Female,Heart Disease,Aspirin,,164/104,0,name@hospital.org,562-437-9714
+Linda Davis,70,Female,Diabetes,Metformin,2024-05-02,127/84,283,name@hospital.org,140-983-8488
+  MARIA ANDERSON ,12, Male,Asthma,Montelukast,2023-10-15,102/60,155,contact@domain.com,961-396-2237
+Robert Brown,39,Female,Diabetes,Insulin,2023-02-24,127/86,226,robert559@mail.com,
+Jane Martinez,23,Female,Diabetes,Insulin,2022-07-22,116/66,206,jane560@mail.com,594-177-4633
+  RAHUL MILLER ,42,Other,Diabetes,Metformin,2020-03-10,113/65,184,rahul.miller@hospital.org,587-194-5837
+Anita Wilson,40, Male,Diabetes,Metformin,2023-10-29,120/74,223,anita.wilson@hospital.org,307-718-5268
+  PRIYA WILSON ,74,FEMALE ,Heart Disease,Atorvastatin,2024-02-13,152/89,320,priya563@mail.com,
+Sarah Wilson,21,Male,Asthma,Montelukast,2020-02-12,112/74,181,sarah.wilson@hospital.org,163-555-7885
+robert miller,55,Male,Asthma,Albuterol,2024-06-06,121/79,185,name@hospital.org,681-612-3833
+Daniel Brown,65,Female,Asthma,Albuterol,2023-07-17,132/75,187,daniel.brown@hospital.org,764-842-1529
+Rahul Davis,36,Male,Asthma,Montelukast,2020-04-04,121/69,183,rahul.davis@hospital.org,
+William Patel,44,Male,Heart Disease,Aspirin,2023-12-23,140/89,263,name@hospital.org,251-120-9944
+Michael Taylor,61, Male,Hypertension,Lisinopril,2022-12-31,144/91,173,contact@domain.com,
+William Sharma,0,Female,Hypertension,Amlodipine,2022-10-28,155/105,254,contact@domain.com,738-682-5603
+  PRIYA ANDERSON ,56,Male,Diabetes,Metformin,2020-05-22,117/77,198,name@hospital.org,354-807-7388
+Priya Wilson,5,Male,Asthma,Montelukast,2020-11-23,99/60,157,priya572@mail.com,
+  MICHAEL BROWN ,56,Female,Heart Disease,Aspirin,2022-06-03,137/88,267,contact@domain.com,549-827-2192
+david smith,65,FEMALE ,Heart Disease,Atorvastatin,,157/93,274,name@hospital.org,338-364-2503
+  PRIYA PATEL ,23,Male,Asthma,Albuterol,2022-01-26,120/76,0,name@hospital.org,322-404-1707
+William Wilson,41,Female,Hypertension,Amlodipine,2024-06-28,153/98,213,contact@domain.com,276-167-4595
+Maria Thomas,70,Female,Diabetes,Insulin,2021-02-27,134/84,320,name@hospital.org,896-153-7551
+Emily Thomas,55,FEMALE ,Heart Disease,Aspirin,2023-01-20,134/85,0,emily.thomas@hospital.org,474-793-4204
+Rahul Johnson,51,None,Diabetes,Insulin,2020-03-29,124/84,241,contact@domain.com,825-966-3512
+  DANIEL PATEL ,26,Male,Asthma,Albuterol,2024-04-12,97/60,139,daniel580@mail.com,779-266-1383
+  RAHUL DAVIS ,32,FEMALE ,Asthma,Albuterol,2022-04-24,116/67,164,name@hospital.org,395-883-6565
+linda brown,75,Female,Heart Disease,Aspirin,2021-08-28,148/90,293,linda582@mail.com,580-793-1814
+james thomas,45,Female,Diabetes,Insulin,not recorded,128/78,203,contact@domain.com,685-578-9834
+Sarah Garcia,44,male,Heart Disease,Atorvastatin,2020-01-10,152/95,235,sarah.garcia@hospital.org,110-499-5811
+rahul lee,44,Female,Heart Disease,Atorvastatin,2021-05-08,142/92,262,rahul.lee@hospital.org,844-218-9080
+Michael Smith,44,Female,Diabetes,Insulin,not recorded,108/73,199,name@hospital.org,529-968-9247
+Maria Brown,52,Male,Hypertension,Lisinopril,2022-08-17,149/95,223,maria.brown@hospital.org,453-891-8121
+Michael Wilson,60,Female,Hypertension,Amlodipine,2022-08-27,156/93,230,name@hospital.org,838-402-1380
+Robert Thomas,56,Other,Hypertension,Lisinopril,2022-03-07,128/80,197,contact@domain.com,211-690-6940
+david johnson,53, Male,Diabetes,Insulin,2022-04-26,114/67,214,david.johnson@hospital.org,269-908-3417
+Sarah Miller,36,Male,Asthma,Albuterol,2022-06-19,108/63,176,name@hospital.org,774-321-4766
+Michael Brown,71,Female,Heart Disease,Aspirin,2021-09-25,136/87,278,name@hospital.org,805-359-2327
+  SARAH LEE ,0,FEMALE ,Heart Disease,Atorvastatin,2023-06-15,131/76,276,contact@domain.com,316-630-3205
+  SARAH MARTINEZ ,38,Male,Asthma,Montelukast,2021-10-29,110/68,147,contact@domain.com,389-971-7735
+Michael Wilson,50,Female,Asthma,Albuterol,2020-11-01,123/73,131,contact@domain.com,137-392-6101
+Rahul Miller,45,Female,Diabetes,Metformin,2022-12-07,135/85,167,rahul.miller@hospital.org,526-931-5379
+William Smith,41,Female,Asthma,Albuterol,2020-11-29,109/65,157,william597@mail.com,
+Emily Miller,52,male,Diabetes,Insulin,2024-03-01,100/65,200,contact@domain.com,306-233-4125
+Jane Garcia,38,Female,Asthma,Albuterol,,126/77,145,contact@domain.com,
+  JANE SMITH ,52, Male,Hypertension,Albuterol,2024-10-19,152/97,257,jane.smith@hospital.org,
+Maria Thomas,74,Female,Heart Disease,Atorvastatin,,150/85,287,contact@domain.com,
+  ROBERT PATEL ,19,Female,Asthma,Montelukast,2023-08-09,112/71,120,name@hospital.org,665-257-7258
+Maria Brown,90,Male,Heart Disease,Aspirin,not recorded,159/98,292,name@hospital.org,
+  ROBERT ANDERSON ,0,None,Heart Disease,Atorvastatin,2021-12-16,132/77,244,robert.anderson@hospital.org,371-804-7005
+Maria Patel,32,Male,Asthma,Montelukast,2021-05-16,110/66,0,name@hospital.org,
+  WILLIAM MARTINEZ ,50, Male,Hypertension,Albuterol,2023-05-23,147/81,203,contact@domain.com,
+  SARAH DAVIS ,74,Other,Heart Disease,Atorvastatin,not recorded,151/95,240,contact@domain.com,214-980-3632
+  DAVID BROWN ,21,None,Asthma,Montelukast,2022-10-26,101/65,142,name@hospital.org,689-119-7372
+  DANIEL SHARMA ,8, Male,Asthma,Montelukast,2024-08-13,95/60,158,daniel.sharma@hospital.org,394-469-1097
+  LINDA MILLER ,57,None,Diabetes,Insulin,2023-07-12,117/67,252,linda610@mail.com,
+John Brown,67,Male,Hypertension,Lisinopril,2020-06-13,148/99,210,contact@domain.com,
+Rahul Taylor,41,Male,Diabetes,Metformin,2020-10-18,129/79,160,rahul612@mail.com,105-374-3301
+Michael Patel,36,Male,Heart Disease,Aspirin,2021-11-08,148/93,212,michael.patel@hospital.org,333-684-6647
+  JOHN BROWN ,80,Male,Heart Disease,Atorvastatin,2022-07-14,140/83,271,contact@domain.com,282-197-6088
+Rahul Davis,39,FEMALE ,Asthma,Albuterol,2021-04-13,101/60,218,rahul.davis@hospital.org,
+  MARIA WILSON ,75,male,Heart Disease,Atorvastatin,not recorded,161/111,276,name@hospital.org,180-436-1960
+John Anderson,0,Male,Diabetes,Metformin,2020-07-29,138/88,213,john.anderson@hospital.org,259-465-5793
+  MARIA JOHNSON ,29,Male,Asthma,Albuterol,2022-05-19,117/69,131,maria.johnson@hospital.org,
+  JOHN MARTINEZ ,52,Other,Diabetes,Insulin,2020-10-25,125/79,224,john.martinez@hospital.org,793-647-6712
+William Patel,17,FEMALE ,Asthma,Montelukast,2021-05-15,105/69,183,contact@domain.com,259-506-1242
+Emily Brown,39,Male,Diabetes,Metformin,2022-10-27,118/68,235,name@hospital.org,
+Rahul Brown,56,Male,Hypertension,Amlodipine,2022-02-10,152/104,178,rahul.brown@hospital.org,305-177-6138
+  ROBERT SMITH ,51,male,Heart Disease,Aspirin,2021-11-12,144/94,263,name@hospital.org,986-965-4457
+Priya Patel,50,Male,Hypertension,Amlodipine,2022-01-08,143/90,209,priya.patel@hospital.org,989-544-1995
+William Martinez,74,Female,Heart Disease,Aspirin,2023-06-03,142/91,259,contact@domain.com,
+Linda Miller,54,Male,Diabetes,Insulin,2020-02-18,122/82,223,name@hospital.org,700-711-4593
+  MARIA ANDERSON ,50,Female,Hypertension,Lisinopril,2022-01-22,131/73,230,maria627@mail.com,375-550-2153
+emily davis,68,Other,Hypertension,Lisinopril,2021-11-23,147/99,0,emily628@mail.com,788-865-2054
+Robert Taylor,66,Other,Hypertension,Amlodipine,2024-01-22,171/101,209,robert629@mail.com,761-980-7811
+Jane Thomas,63,Female,Heart Disease,Metformin,2021-06-14,147/86,246,jane630@mail.com,640-493-3745
+  RAHUL PATEL ,51,Male,Diabetes,Metformin,2021-05-22,131/80,221,rahul631@mail.com,623-542-6796
+Robert Brown,66,Female,Diabetes,Insulin,2021-04-03,118/66,290,contact@domain.com,203-720-1400
+Priya Brown,24,Female,Hypertension,Lisinopril,,145/90,205,priya.brown@hospital.org,661-502-5242
+  ANITA WILSON ,32,FEMALE ,Asthma,Albuterol,2021-12-09,112/63,151,contact@domain.com,568-876-5741
+Robert Miller,56,Female,Heart Disease,Aspirin,2024-06-29,146/82,276,contact@domain.com,783-756-2216
+laura taylor,66,None,Hypertension,Amlodipine,2023-05-02,159/98,210,name@hospital.org,852-567-9005
+David Sharma,54,Female,Diabetes,Metformin,2024-03-05,118/69,236,contact@domain.com,969-171-3279
+Robert Wilson,80,Female,Heart Disease,Aspirin,2021-04-08,161/96,318,contact@domain.com,
+Anita Lee,43,Female,Diabetes,Lisinopril,,111/65,221,anita.lee@hospital.org,
+Maria Patel,36,Male,Diabetes,Insulin,2022-01-14,116/75,219,maria640@mail.com,361-452-8183
+Robert Lee,33,Male,Asthma,Albuterol,2023-11-07,96/61,120,robert.lee@hospital.org,888-959-3565
+  MARIA SHARMA ,68,Other,Heart Disease,Atorvastatin,2023-10-02,154/90,235,maria642@mail.com,839-240-8081
+Emily Wilson,71,Male,Hypertension,Amlodipine,2024-02-18,155/83,187,contact@domain.com,760-350-1732
+Emily Taylor,54,Female,Hypertension,Metformin,2024-04-17,153/93,218,emily644@mail.com,
+Sarah Thomas,61,Male,Hypertension,Lisinopril,2021-07-27,162/93,253,sarah645@mail.com,361-237-4166
+  JAMES MILLER ,51,Male,Diabetes,Insulin,2021-10-11,121/77,227,contact@domain.com,498-960-1635
+Daniel Davis,77,Female,Heart Disease,Atorvastatin,2023-11-17,148/84,260,daniel.davis@hospital.org,
+Priya Anderson,44,Male,Heart Disease,Aspirin,2021-01-12,133/75,282,priya648@mail.com,855-869-3817
+emily smith,51,male,Diabetes,Insulin,2021-10-01,129/80,237,contact@domain.com,367-620-3497
+anita sharma,7,None,Asthma,Albuterol,2024-10-28,109/75,120,contact@domain.com,
+david miller,55,FEMALE ,Hypertension,Amlodipine,2023-04-24,140/92,234,david.miller@hospital.org,561-602-7746
+Robert Lee,37,FEMALE ,Asthma,Albuterol,2020-05-01,136/92,171,robert.lee@hospital.org,
+  ROBERT DAVIS ,70,Male,Heart Disease,Aspirin,2020-09-15,148/91,280,robert653@mail.com,117-812-7110
+john wilson,87, Male,Heart Disease,Metformin,2021-08-11,161/99,307,john654@mail.com,261-221-9350
+John Brown,78,Female,Hypertension,Lisinopril,2022-06-02,155/99,0,contact@domain.com,251-998-3563
+Jane Lee,9,Other,Asthma,Montelukast,2024-11-15,108/60,133,name@hospital.org,
+michael davis,64,FEMALE ,Heart Disease,Lisinopril,2020-08-14,150/85,277,michael657@mail.com,212-602-7119
+Rahul Taylor,22,Female,Asthma,Albuterol,2023-05-18,101/60,138,rahul658@mail.com,
+Maria Wilson,37,Male,Asthma,Montelukast,,124/80,153,name@hospital.org,840-476-5966
+Daniel Taylor,72,Other,Heart Disease,Aspirin,not recorded,136/80,264,name@hospital.org,568-504-7938
+  ROBERT GARCIA ,52,FEMALE ,Diabetes,Albuterol,2020-09-30,127/74,192,robert661@mail.com,651-279-5957
+emily taylor,0,FEMALE ,Asthma,Montelukast,2023-08-25,106/64,149,contact@domain.com,
+Priya Sharma,41,Male,Hypertension,Lisinopril,2024-11-04,151/81,214,priya663@mail.com,904-732-1854
+Jane Miller,51,Male,Hypertension,Amlodipine,2020-05-18,149/87,191,jane664@mail.com,260-174-1325
+anita anderson,15, Male,Asthma,Montelukast,2024-04-09,133/84,150,name@hospital.org,
+John Anderson,14,FEMALE ,Asthma,Montelukast,2024-01-14,125/79,149,john.anderson@hospital.org,945-756-7111
+  PRIYA PATEL ,62,Female,Hypertension,Lisinopril,2024-08-25,171/108,210,name@hospital.org,758-732-6724
+Linda Martinez,58,None,Heart Disease,Aspirin,2023-05-03,164/90,262,name@hospital.org,729-131-7504
+rahul wilson,85, Male,Heart Disease,Aspirin,not recorded,150/83,263,name@hospital.org,
+Daniel Martinez,40,Male,Heart Disease,Aspirin,,137/83,230,contact@domain.com,791-776-4333
+Priya Brown,38,male,Asthma,Montelukast,2024-06-28,109/70,185,contact@domain.com,155-648-7693
+Maria Wilson,18,Female,Asthma,None,,113/68,120,contact@domain.com,413-101-8718
+Rahul Patel,27,Male,Hypertension,Lisinopril,,166/101,167,rahul673@mail.com,307-517-8492
+James Martinez,50,Female,Diabetes,None,2024-11-19,114/70,242,james.martinez@hospital.org,325-253-4441
+Robert Garcia,7,Female,Asthma,Albuterol,2023-12-28,130/86,123,contact@domain.com,705-500-3079
+Laura Thomas,53,None,Diabetes,Metformin,2020-04-03,125/77,0,contact@domain.com,573-892-6020
+Emily Patel,55,None,Heart Disease,Atorvastatin,2024-03-02,153/94,272,emily677@mail.com,203-108-2974
+  EMILY ANDERSON ,60,FEMALE ,Heart Disease,Atorvastatin,2021-04-13,140/87,268,emily.anderson@hospital.org,596-129-6921
+Priya Patel,71,Male,Heart Disease,Aspirin,2023-12-09,135/81,272,priya.patel@hospital.org,
+James Davis,18,Male,Asthma,Albuterol,2020-06-24,123/82,169,james.davis@hospital.org,127-171-2422
+Laura Martinez,16,FEMALE ,Asthma,Montelukast,2024-08-29,116/61,169,name@hospital.org,473-627-1580
+anita garcia,66,FEMALE ,Diabetes,Insulin,2024-11-30,121/76,222,name@hospital.org,536-466-5423
+Rahul Brown,53, Male,Hypertension,Amlodipine,2021-03-03,161/102,244,rahul.brown@hospital.org,827-151-8133
+John Wilson,61,Male,Hypertension,Lisinopril,2022-02-04,171/109,221,john684@mail.com,259-970-3580
+  DANIEL THOMAS ,44,Female,Asthma,Montelukast,2023-07-09,118/69,166,contact@domain.com,201-107-6915
+jane anderson,81,Other,Heart Disease,Atorvastatin,2020-08-09,154/83,309,contact@domain.com,
+Priya Lee,38,FEMALE ,Diabetes,Insulin,2023-11-27,120/71,206,priya.lee@hospital.org,704-994-2118
+Jane Anderson,14,Male,Asthma,Albuterol,,95/67,160,name@hospital.org,410-508-9074
+priya garcia,51,Female,Hypertension,Albuterol,2022-08-05,158/99,191,name@hospital.org,181-323-1870
+Linda Lee,0,Female,Heart Disease,Atorvastatin,2020-07-01,134/83,232,linda.lee@hospital.org,848-689-7912
+Rahul Miller,83,Other,Hypertension,Lisinopril,2020-07-09,151/99,250,name@hospital.org,114-836-2222
+David Patel,0,Male,Asthma,Montelukast,2020-05-13,99/65,148,david.patel@hospital.org,801-571-2705
+sarah wilson,48,FEMALE ,Diabetes,Insulin,2023-10-18,126/77,190,sarah.wilson@hospital.org,647-501-8950
+William Miller,37,Other,Hypertension,Lisinopril,,155/93,188,contact@domain.com,429-991-1187
+priya taylor,70,Female,Diabetes,Albuterol,2022-10-17,148/100,255,contact@domain.com,854-138-4794
+Daniel Patel,26,Female,Asthma,None,2024-09-21,101/60,149,name@hospital.org,
+Maria Lee,59,FEMALE ,Heart Disease,Aspirin,2022-06-29,149/96,276,contact@domain.com,980-371-9581
+Linda Anderson,22,Male,Asthma,Montelukast,2023-03-01,105/62,180,name@hospital.org,429-888-6285
+Rahul Martinez,13,Male,Asthma,Montelukast,2023-09-05,112/73,183,rahul.martinez@hospital.org,545-320-6455
+emily thomas,43,Male,Diabetes,Metformin,2023-07-23,129/84,219,emily.thomas@hospital.org,
+Daniel Martinez,40,FEMALE ,Asthma,Albuterol,,133/87,168,daniel.martinez@hospital.org,623-207-7936
+john wilson,45,Female,Hypertension,Amlodipine,2021-04-20,150/89,229,john702@mail.com,549-860-4680
+Jane Miller,37,male,Heart Disease,Lisinopril,2022-03-18,138/91,184,jane703@mail.com,880-271-1104
+jane davis,67,male,Heart Disease,Atorvastatin,2024-10-27,149/101,242,jane.davis@hospital.org,957-920-8230
+  LAURA GARCIA ,34,Female,Asthma,Albuterol,2020-08-04,106/60,151,name@hospital.org,541-653-8919
+Rahul Brown,57,Other,Heart Disease,Aspirin,2020-11-12,163/101,301,contact@domain.com,435-819-8285
+William Taylor,13,None,Asthma,Montelukast,2023-08-29,95/65,140,name@hospital.org,610-855-8566
+Jane Patel,41,Male,Hypertension,Lisinopril,2022-10-01,149/92,201,contact@domain.com,339-742-8342
+Priya Johnson,61,male,Diabetes,Metformin,2023-08-01,129/80,242,priya.johnson@hospital.org,
+William Smith,23,Female,Asthma,Montelukast,,113/76,0,name@hospital.org,890-447-5659
+sarah wilson,39,Male,Diabetes,Metformin,2020-10-02,122/84,210,sarah711@mail.com,100-825-3924
+maria thomas,48,Male,Hypertension,Metformin,,150/100,280,name@hospital.org,657-633-9672
+James Anderson,50,Male,Heart Disease,Aspirin,2021-02-07,144/84,0,name@hospital.org,227-608-3279
+Rahul Davis,56,Female,Hypertension,Lisinopril,2023-06-16,147/94,210,rahul714@mail.com,
+David Anderson,32,Male,Asthma,Albuterol,2022-06-17,121/86,120,name@hospital.org,618-716-4264
+michael patel,42,Female,Diabetes,Insulin,2024-04-27,125/79,150,michael.patel@hospital.org,379-327-2384
+David Thomas,54,Other,Diabetes,Metformin,2021-02-08,111/80,245,contact@domain.com,291-438-9946
+Sarah Sharma,0, Male,Asthma,Albuterol,2020-05-28,124/77,167,sarah718@mail.com,178-757-3571
+sarah wilson,35,None,Hypertension,Lisinopril,2020-02-29,137/79,0,sarah.wilson@hospital.org,780-504-1074
+Maria Wilson,36,male,Asthma,Albuterol,,119/76,206,name@hospital.org,
+Anita Taylor,57,Male,Hypertension,None,2020-09-29,166/111,252,name@hospital.org,702-535-1971
+Rahul Miller,37,None,Diabetes,Metformin,2022-07-04,119/74,247,rahul.miller@hospital.org,366-967-4254
+Emily Smith,64,FEMALE ,Hypertension,Amlodipine,2022-04-26,153/93,193,name@hospital.org,398-656-5918
+Jane Lee,54,male,Diabetes,Insulin,2021-03-03,123/80,183,jane.lee@hospital.org,760-341-7884
+david thomas,55,FEMALE ,Heart Disease,Aspirin,2021-08-01,136/85,238,name@hospital.org,830-850-1133
+  MARIA MILLER ,60,Male,Diabetes,Insulin,2023-03-12,132/80,214,maria726@mail.com,725-927-4182
+  WILLIAM THOMAS ,59, Male,Asthma,Metformin,,127/76,0,william.thomas@hospital.org,
+Laura Wilson,39,Male,Diabetes,Insulin,2021-10-09,124/72,213,laura728@mail.com,
+Laura Anderson,38,FEMALE ,Asthma,Montelukast,2024-08-10,104/71,192,laura.anderson@hospital.org,855-568-8787
+William Martinez,71, Male,Heart Disease,Atorvastatin,2021-12-26,153/103,245,william.martinez@hospital.org,434-332-8884
+  MICHAEL MARTINEZ ,48,Male,Diabetes,None,2021-01-22,133/87,196,michael.martinez@hospital.org,582-954-1902
+Laura Garcia,78,Female,Hypertension,Metformin,2021-03-17,144/94,240,laura732@mail.com,680-490-7932
+anita garcia,52,Female,Heart Disease,Atorvastatin,2021-09-17,150/94,253,anita733@mail.com,781-990-2974
+Robert Patel,52, Male,Hypertension,Amlodipine,2020-09-08,156/98,196,robert.patel@hospital.org,947-516-9367
+David Miller,66,Female,Hypertension,Lisinopril,2024-01-08,155/105,173,name@hospital.org,798-579-3364
+emily patel,32,Female,Asthma,Albuterol,2020-07-15,109/61,180,emily736@mail.com,926-189-5176
+Michael Anderson,58,Male,Diabetes,Insulin,2021-11-04,120/73,211,michael737@mail.com,635-129-1371
+Sarah Wilson,69,Female,Hypertension,Amlodipine,2020-12-05,156/90,234,sarah.wilson@hospital.org,720-449-8012
+  LINDA SMITH ,62,Female,Diabetes,Metformin,2023-02-27,126/84,260,linda.smith@hospital.org,924-616-2669
+Laura Smith,62,male,Hypertension,Amlodipine,2021-06-04,156/102,213,name@hospital.org,868-573-8487
+  LINDA SHARMA ,57,male,Asthma,Albuterol,2022-08-10,144/90,216,linda741@mail.com,724-957-2369
+David Garcia,50,male,Asthma,Albuterol,2022-01-14,128/92,168,david742@mail.com,853-582-5739
+Michael Brown,48,FEMALE ,Heart Disease,Atorvastatin,,133/79,256,name@hospital.org,929-889-5070
+  MARIA ANDERSON ,15,Female,Asthma,Albuterol,2020-10-22,118/87,166,maria744@mail.com,786-678-5612
+  RAHUL LEE ,33,Female,Asthma,Metformin,2022-08-05,120/79,174,contact@domain.com,655-682-6883
+Anita Miller,49,Male,Diabetes,Insulin,2021-03-12,106/68,0,anita746@mail.com,
+william miller,37,Male,Hypertension,Amlodipine,2024-07-24,147/90,207,name@hospital.org,111-573-7341
+Emily Davis,30,Other,Asthma,Lisinopril,2021-07-28,104/60,160,emily.davis@hospital.org,152-930-3974
+William Miller,45,None,Diabetes,Metformin,2022-07-21,129/68,246,name@hospital.org,
+Michael Taylor,54,Female,Hypertension,Lisinopril,2020-08-18,154/100,214,name@hospital.org,922-795-6632
+James Martinez,64,Male,Hypertension,Albuterol,2021-03-02,175/110,208,james.martinez@hospital.org,445-826-3691
+linda smith,34,Male,Asthma,Montelukast,2024-07-16,113/68,151,linda752@mail.com,447-101-5208
+robert wilson,55,Other,Hypertension,Amlodipine,2024-05-03,148/98,179,name@hospital.org,
+Robert Lee,66,Male,Heart Disease,Aspirin,,157/99,244,robert.lee@hospital.org,519-643-5816
+rahul brown,5,Male,Asthma,Albuterol,2020-11-05,107/64,120,rahul.brown@hospital.org,
+Emily Lee,50,Other,Diabetes,Metformin,2021-07-20,129/82,228,name@hospital.org,413-542-5825
+john wilson,45,FEMALE ,Diabetes,None,,134/81,200,john.wilson@hospital.org,927-393-2653
+James Martinez,69,Male,Diabetes,Metformin,2020-05-04,123/65,239,james.martinez@hospital.org,484-996-3517
+  JANE BROWN ,72, Male,Diabetes,Metformin,2023-07-21,117/75,199,jane759@mail.com,864-259-1727
+Rahul Miller,50,Male,Diabetes,Metformin,2020-05-14,113/70,229,contact@domain.com,522-117-6533
+jane davis,14,Female,Asthma,Montelukast,2020-06-06,116/72,157,jane.davis@hospital.org,
+Emily Brown,47, Male,Asthma,Montelukast,2022-04-18,138/78,0,contact@domain.com,305-899-3848
+Laura Garcia,0,Female,Heart Disease,Aspirin,2022-10-31,149/94,231,name@hospital.org,109-122-1026
+Maria Sharma,58,Male,Diabetes,Metformin,2020-01-10,115/77,235,maria.sharma@hospital.org,184-280-8835
+Maria Miller,69,Female,Hypertension,Lisinopril,2022-02-26,157/102,233,contact@domain.com,474-687-4575
+Daniel Taylor,74,Female,Hypertension,Lisinopril,2023-04-04,172/99,202,name@hospital.org,246-500-4025
+William Miller,48,Female,Asthma,Montelukast,,117/60,184,name@hospital.org,135-928-2018
+  JAMES GARCIA ,61,Other,Diabetes,Insulin,2024-03-14,126/73,0,contact@domain.com,818-162-8091
+Anita Brown,71,Other,Hypertension,Amlodipine,2024-03-24,143/88,201,name@hospital.org,367-671-2652
+Jane Taylor,59, Male,Diabetes,Metformin,2023-09-19,126/71,234,contact@domain.com,315-863-2762
+William Thomas,11,Other,Hypertension,Amlodipine,2022-08-26,146/94,173,contact@domain.com,
+  JOHN SHARMA ,63,Male,Diabetes,Metformin,,129/80,274,name@hospital.org,376-997-1765
+robert lee,5,FEMALE ,Asthma,None,2023-06-27,118/69,126,robert773@mail.com,
+Daniel Thomas,0,Male,Heart Disease,Metformin,2021-10-30,139/87,224,daniel.thomas@hospital.org,212-865-3957
+Rahul Smith,28,None,Asthma,Albuterol,not recorded,117/68,123,contact@domain.com,571-818-1979
+Jane Brown,90,Male,Heart Disease,Aspirin,2023-08-01,172/98,214,jane.brown@hospital.org,
+  ROBERT DAVIS ,5,Female,Asthma,Albuterol,2023-08-27,99/70,129,name@hospital.org,246-260-8651
+anita lee,45,None,Diabetes,Insulin,2023-12-01,112/69,216,anita778@mail.com,
+Emily Wilson,81,None,Heart Disease,Atorvastatin,2023-02-21,157/96,261,emily779@mail.com,363-705-6631
+robert davis,72,Female,Hypertension,Amlodipine,2020-10-16,178/115,209,contact@domain.com,731-234-1703
+Michael Davis,46,Female,Hypertension,Lisinopril,2023-06-13,151/110,187,michael.davis@hospital.org,845-443-9819
+Emily Wilson,45,Male,Diabetes,Metformin,2024-11-28,113/60,171,emily.wilson@hospital.org,923-198-8226
+Linda Wilson,64,Female,Asthma,Montelukast,2020-10-08,121/74,229,name@hospital.org,853-314-1531
+David Thomas,52,FEMALE ,Hypertension,Lisinopril,2023-05-24,152/99,248,david784@mail.com,433-427-4133
+Michael Smith,37, Male,Hypertension,Lisinopril,2024-06-19,142/90,166,name@hospital.org,546-970-2647
+Daniel Davis,34,Female,Hypertension,None,2021-05-13,167/102,189,daniel786@mail.com,984-831-6289
+Emily Patel,50,Male,Asthma,Albuterol,,135/82,142,emily.patel@hospital.org,638-779-9366
+Priya Smith,59,None,Diabetes,Metformin,2022-03-22,125/68,237,contact@domain.com,532-727-6590
+maria martinez,59,None,Hypertension,Amlodipine,2021-11-27,158/98,231,name@hospital.org,780-904-8644
+james garcia,49,Male,Diabetes,Albuterol,2020-07-18,117/72,193,name@hospital.org,308-875-7706
+John Johnson,51,Female,Diabetes,Insulin,2022-10-07,119/77,222,john791@mail.com,
+rahul davis,73,Male,Heart Disease,Aspirin,2021-11-08,144/86,268,contact@domain.com,665-196-7962
+  JOHN WILSON ,66,Female,Heart Disease,Aspirin,2024-11-13,140/86,252,contact@domain.com,854-664-1886
+William Thomas,68,Female,Diabetes,Metformin,2024-07-20,116/78,252,name@hospital.org,334-858-2214
+Sarah Miller,85,Other,Hypertension,Lisinopril,2021-04-24,166/86,224,sarah795@mail.com,100-587-8731
+  JOHN SMITH ,37,Male,Asthma,Montelukast,2020-11-20,97/65,207,name@hospital.org,
+michael johnson,63,Male,Hypertension,Lisinopril,2024-06-11,164/93,222,michael.johnson@hospital.org,657-830-4118
+Priya Johnson,52,Male,Diabetes,Metformin,2022-05-23,121/68,216,priya798@mail.com,269-745-6263
+Rahul Thomas,50,Male,Hypertension,Amlodipine,2020-01-22,158/105,200,contact@domain.com,584-212-3528
+David Thomas,64,Other,Heart Disease,Atorvastatin,,126/82,265,name@hospital.org,153-256-2460
+  RAHUL JOHNSON ,82,Other,Heart Disease,Aspirin,2024-01-30,163/100,275,name@hospital.org,
+priya brown,0,Female,Hypertension,Lisinopril,2020-04-01,147/88,223,priya802@mail.com,884-661-7298
+Daniel Johnson,51,Male,Hypertension,Lisinopril,2023-11-04,132/78,195,daniel.johnson@hospital.org,850-525-3629
+Linda Johnson,38,Female,Asthma,Albuterol,2021-12-12,135/95,151,name@hospital.org,977-428-7119
+sarah taylor,48,FEMALE ,Heart Disease,Atorvastatin,2022-03-20,126/77,241,name@hospital.org,519-381-4769
+Jane Sharma,80,Male,Hypertension,Lisinopril,,158/90,218,jane806@mail.com,
+Rahul Brown,57,None,Diabetes,Metformin,2021-11-08,114/63,243,rahul807@mail.com,178-673-6949
+  DAVID ANDERSON ,20,Male,Diabetes,Metformin,2023-12-29,120/79,208,contact@domain.com,
+James Martinez,50,Male,Diabetes,Metformin,,124/83,244,contact@domain.com,899-647-7334
+  SARAH THOMAS ,67,Female,Hypertension,None,2023-10-18,129/76,210,contact@domain.com,710-679-8356
+Linda Patel,69,Female,Heart Disease,Aspirin,2020-12-23,145/91,270,name@hospital.org,938-843-6508
+  LAURA LEE ,59,Other,Heart Disease,Aspirin,,139/84,272,laura.lee@hospital.org,497-233-7032
+priya taylor,57,Female,Heart Disease,Aspirin,2020-11-05,144/91,251,contact@domain.com,464-329-3066
+  RAHUL MILLER ,56,Female,Asthma,Montelukast,2020-09-02,122/77,238,name@hospital.org,514-332-7616
+David Garcia,35,Female,Asthma,Albuterol,2021-01-11,130/74,168,david.garcia@hospital.org,229-604-3623
+james patel,40,Male,Hypertension,Amlodipine,2023-07-15,142/86,175,james.patel@hospital.org,
+emily garcia,68,Female,Hypertension,Amlodipine,2021-11-29,161/95,214,emily.garcia@hospital.org,263-742-2086
+David Lee,60,Female,Heart Disease,Albuterol,2021-03-17,147/92,249,david.lee@hospital.org,427-564-8560
+Daniel Garcia,52,Female,Diabetes,Insulin,2022-07-22,111/73,255,contact@domain.com,317-498-4155
+emily anderson,29,Other,Asthma,Lisinopril,2023-09-13,133/69,134,emily.anderson@hospital.org,
+  JANE MARTINEZ ,44,Male,Asthma,Montelukast,,113/72,160,contact@domain.com,682-205-6394
+David Wilson,79,Other,Heart Disease,Albuterol,2024-06-04,150/87,291,name@hospital.org,676-584-1320
+  JANE MILLER ,60,Male,Heart Disease,Atorvastatin,2020-02-01,138/80,269,jane.miller@hospital.org,134-605-2116
+William Johnson,57,Female,Heart Disease,Atorvastatin,2023-01-25,131/75,0,name@hospital.org,354-251-4726
+Linda Thomas,23,Female,Asthma,Albuterol,2021-03-02,134/74,149,linda.thomas@hospital.org,202-179-8757
+Rahul Martinez,5, Male,Asthma,Montelukast,2021-10-08,95/60,120,rahul.martinez@hospital.org,442-504-9334
+John Taylor,16,Female,Asthma,Albuterol,2023-08-27,141/79,134,john827@mail.com,826-341-6290
+Sarah Davis,43,male,Asthma,Albuterol,2023-08-21,108/68,206,name@hospital.org,672-645-3733
+Michael Martinez,50,Female,Diabetes,Metformin,2023-08-14,127/78,225,michael.martinez@hospital.org,710-908-1262
+  LAURA SMITH ,88,Female,Heart Disease,Lisinopril,,151/94,302,contact@domain.com,
+James Thomas,51,FEMALE ,Diabetes,Metformin,2022-11-03,135/83,199,james.thomas@hospital.org,453-435-9455
+Jane Lee,61,Male,Hypertension,Lisinopril,2023-03-24,146/84,214,jane832@mail.com,483-688-8684
+Laura Patel,28,Male,Asthma,Albuterol,2022-09-08,98/66,159,laura833@mail.com,495-348-3366
+Michael Johnson,58,Female,Hypertension,Amlodipine,2021-10-24,140/90,227,name@hospital.org,849-781-5881
+James Sharma,9,FEMALE ,Asthma,Montelukast,not recorded,99/68,158,james835@mail.com,700-541-5627
+  JAMES TAYLOR ,86,Female,Heart Disease,None,2023-05-14,148/94,0,james836@mail.com,187-285-8313
+William Wilson,46,Male,Diabetes,Lisinopril,2024-07-20,128/79,229,contact@domain.com,
+Rahul Lee,63,Male,Hypertension,Lisinopril,2023-05-02,139/72,230,rahul.lee@hospital.org,872-806-9801
+Emily Garcia,53,Female,Hypertension,Lisinopril,2022-06-06,151/92,210,contact@domain.com,932-258-4883
+Jane Smith,26,FEMALE ,Asthma,Montelukast,2022-10-10,100/60,184,name@hospital.org,
+William Patel,63,Female,Heart Disease,Aspirin,2023-11-04,132/83,263,name@hospital.org,271-870-5911
+Anita Garcia,28, Male,Asthma,Montelukast,2023-07-04,110/70,0,anita842@mail.com,928-168-5866
+William Brown,39,FEMALE ,Hypertension,Albuterol,2022-11-18,152/91,176,contact@domain.com,553-327-7417
+Anita Garcia,53,Female,Diabetes,Insulin,2021-11-02,122/73,219,contact@domain.com,911-206-1936
+Emily Davis,56,Male,Heart Disease,Aspirin,2020-09-09,114/68,291,emily845@mail.com,244-498-2746
+jane sharma,23,FEMALE ,Hypertension,Lisinopril,not recorded,145/85,208,contact@domain.com,
+Maria Lee,51,Female,Asthma,Albuterol,2020-07-15,123/74,162,maria847@mail.com,389-177-9268
+anita smith,42,Female,Hypertension,Lisinopril,2023-11-19,149/91,246,anita.smith@hospital.org,937-762-9710
+William Thomas,74,Female,Hypertension,Lisinopril,2021-08-08,159/102,223,william.thomas@hospital.org,
+Sarah Sharma,52,Male,Asthma,Montelukast,,125/70,167,contact@domain.com,599-710-6629
+Jane Wilson,57,Male,Heart Disease,Aspirin,2020-08-06,130/83,241,jane851@mail.com,649-145-7357
+Maria Johnson,50,Male,Hypertension,Amlodipine,2023-07-04,159/103,280,contact@domain.com,111-209-5217
+Sarah Garcia,74,FEMALE ,Heart Disease,Aspirin,,154/99,281,sarah853@mail.com,445-473-5416
+  MARIA GARCIA ,28,FEMALE ,Asthma,Albuterol,2020-10-25,114/74,199,maria.garcia@hospital.org,892-870-3892
+James Sharma,49,Female,Hypertension,Lisinopril,2024-04-08,145/76,188,james.sharma@hospital.org,809-238-9831
+  JAMES TAYLOR ,48,FEMALE ,Hypertension,Amlodipine,2022-05-09,153/94,172,james856@mail.com,792-758-3285
+emily garcia,63,Other,Heart Disease,Aspirin,2023-12-02,152/96,292,emily857@mail.com,
+robert patel,49,Female,Heart Disease,Aspirin,2020-08-12,140/81,245,robert858@mail.com,837-847-5447
+  RAHUL ANDERSON ,78,Other,Hypertension,None,,149/91,203,name@hospital.org,132-397-3415
+michael anderson,85,Other,Hypertension,Metformin,2024-08-17,176/108,214,name@hospital.org,884-951-8764
+Emily Wilson,41,Male,Diabetes,Metformin,2021-10-10,130/74,209,contact@domain.com,982-478-8734
+maria thomas,57,Female,Diabetes,Insulin,2020-10-22,112/71,213,contact@domain.com,
+Anita Brown,50,Male,Hypertension,Amlodipine,2023-11-30,161/101,0,anita863@mail.com,100-461-7780
+rahul smith,71,Male,Hypertension,Amlodipine,2022-12-11,157/94,246,name@hospital.org,383-913-9978
+William Johnson,71,Male,Heart Disease,Atorvastatin,2022-11-04,146/88,273,william865@mail.com,784-407-8375
+  JANE THOMAS ,32,male,Diabetes,Metformin,2024-05-14,119/70,226,name@hospital.org,720-161-8381
+Priya Lee,66,Male,Diabetes,Metformin,2023-07-01,122/77,239,name@hospital.org,633-637-7581
+  RAHUL THOMAS ,26,Male,Asthma,Albuterol,,113/69,189,rahul868@mail.com,627-581-7173
+Robert Johnson,48,Male,Hypertension,Amlodipine,not recorded,158/93,219,robert.johnson@hospital.org,809-235-3907
+James Davis,62,FEMALE ,Diabetes,Metformin,,142/85,249,james870@mail.com,637-256-5430
+Linda Smith,79,Male,Heart Disease,Atorvastatin,2024-05-17,152/94,261,linda871@mail.com,251-858-5662
+Rahul Martinez,59,male,Hypertension,Metformin,2023-12-11,166/105,216,rahul.martinez@hospital.org,644-692-1048
+Rahul Lee,57,Female,Hypertension,Lisinopril,2024-07-28,150/98,185,rahul.lee@hospital.org,808-928-4743
+Priya Davis,56,Male,Hypertension,Amlodipine,2023-08-03,123/73,188,priya.davis@hospital.org,115-538-5762
+Sarah Taylor,23,Female,Asthma,Montelukast,2020-09-26,95/67,163,sarah875@mail.com,927-588-7708
+  ROBERT WILSON ,70,Female,Hypertension,Albuterol,2024-03-30,164/103,240,contact@domain.com,464-416-4916
+David Patel,65,Other,Heart Disease,Atorvastatin,2022-01-10,151/91,0,david877@mail.com,
+Laura Anderson,52,Female,Heart Disease,Metformin,2020-06-22,135/67,231,laura.anderson@hospital.org,776-928-2724
+  PRIYA WILSON ,38,male,Hypertension,Lisinopril,,149/92,245,contact@domain.com,
+james davis,45,Male,Hypertension,Lisinopril,2020-06-25,161/102,197,contact@domain.com,887-784-8738
+Daniel Martinez,52,FEMALE ,Diabetes,Insulin,2020-11-29,117/73,178,daniel881@mail.com,580-462-9084
+Maria Wilson,68,Other,Hypertension,Lisinopril,2022-02-10,143/93,207,name@hospital.org,
+Daniel Wilson,5,male,Asthma,Albuterol,2021-12-11,95/60,153,daniel.wilson@hospital.org,491-923-4450
+Linda Lee,70,Female,Heart Disease,Aspirin,2023-01-28,147/92,303,contact@domain.com,830-958-1883
+  DANIEL MARTINEZ ,56,Male,Heart Disease,Atorvastatin,2023-05-26,151/87,205,name@hospital.org,210-158-5731
+  RAHUL SHARMA ,70,None,Heart Disease,Atorvastatin,2020-10-05,131/76,280,contact@domain.com,786-309-4149
+linda taylor,15,Male,Asthma,Albuterol,2022-05-08,112/71,161,name@hospital.org,223-980-2746
+Michael Brown,0,Male,Asthma,Montelukast,,129/78,120,name@hospital.org,
+robert sharma,50,Male,Hypertension,Lisinopril,2021-06-13,146/87,222,contact@domain.com,300-977-4358
+john patel,39,Female,Asthma,Albuterol,not recorded,130/75,194,contact@domain.com,
+daniel sharma,29,Female,Asthma,Albuterol,2020-08-17,122/76,152,contact@domain.com,666-708-3872
+michael anderson,75, Male,Hypertension,Lisinopril,2022-03-25,152/92,250,contact@domain.com,360-199-9008
+maria johnson,46,Male,Diabetes,Metformin,2024-04-02,130/75,223,name@hospital.org,561-787-7095
+  JANE MILLER ,0,male,Asthma,Montelukast,2020-04-17,118/66,163,name@hospital.org,993-113-6963
+Michael Thomas,48,Male,Hypertension,Amlodipine,2021-06-05,158/100,208,name@hospital.org,175-416-4823
+Emily Brown,31,Female,Asthma,Lisinopril,2022-12-21,107/62,168,emily896@mail.com,362-952-2738
+Maria Taylor,39,Female,Diabetes,Metformin,2020-12-13,114/64,191,maria897@mail.com,877-452-3812
+  LINDA JOHNSON ,67,Other,Heart Disease,Aspirin,2023-04-14,146/86,235,linda898@mail.com,301-526-9189
+Michael Martinez,51,Male,Heart Disease,Aspirin,2020-03-04,138/77,286,contact@domain.com,507-926-4732
+Anita Wilson,37,Male,Diabetes,Insulin,2022-12-29,102/62,163,name@hospital.org,365-498-1038
+  ROBERT WILSON ,43,None,Asthma,Montelukast,2024-03-04,121/68,215,robert.wilson@hospital.org,313-117-1361
+  LAURA GARCIA ,29,FEMALE ,Asthma,Albuterol,2022-12-13,95/66,135,laura.garcia@hospital.org,442-952-3929
+john wilson,38,Male,Asthma,Albuterol,2020-11-30,107/68,135,name@hospital.org,401-252-2505
+  LAURA MILLER ,69,Male,Heart Disease,Atorvastatin,2020-02-06,151/89,257,name@hospital.org,
+John Sharma,50,Female,Diabetes,Metformin,2021-11-24,109/70,188,contact@domain.com,204-788-7502
+  SARAH PATEL ,17,Female,Asthma,Albuterol,2024-03-11,105/69,150,name@hospital.org,305-596-9664
+Linda Anderson,63,Female,Hypertension,Lisinopril,2022-04-13,145/90,210,contact@domain.com,351-826-1076
+emily martinez,75,Male,Heart Disease,Aspirin,2023-08-21,154/89,270,contact@domain.com,
+emily anderson,32,FEMALE ,Asthma,Montelukast,2021-03-29,103/60,150,name@hospital.org,975-256-3413
+jane garcia,66,Male,Diabetes,Insulin,2021-06-01,121/64,210,name@hospital.org,730-149-1973
+Jane Sharma,70,Male,Heart Disease,Atorvastatin,,131/89,288,name@hospital.org,806-479-2626
+Rahul Johnson,0,Female,Diabetes,Insulin,2024-06-10,116/69,180,rahul912@mail.com,304-630-1386
+maria smith,31,FEMALE ,Asthma,Albuterol,2020-09-28,125/78,208,maria.smith@hospital.org,850-825-2303
+robert patel,42,Male,Diabetes,None,2021-12-08,111/68,201,robert914@mail.com,819-569-4000
+William Thomas,27,Female,Asthma,Albuterol,not recorded,107/60,182,william915@mail.com,287-172-7863
+James Garcia,55, Male,Diabetes,Metformin,2023-02-06,128/72,212,name@hospital.org,647-171-5674
+  DANIEL LEE ,45,Female,Diabetes,Metformin,2020-12-25,126/72,220,daniel917@mail.com,235-138-9904
+  SARAH MARTINEZ ,53,Male,Hypertension,Amlodipine,2020-09-15,150/84,162,sarah918@mail.com,436-260-2400
+Daniel Garcia,50,Other,Heart Disease,Albuterol,2023-08-23,128/72,283,daniel.garcia@hospital.org,
+John Taylor,71,Male,Heart Disease,Lisinopril,2024-08-10,144/82,248,contact@domain.com,449-280-5852
+Daniel Smith,76,Female,Hypertension,Lisinopril,2022-09-21,169/107,196,daniel921@mail.com,120-184-8803
+Robert Martinez,50,Male,Diabetes,Metformin,2024-04-25,135/76,249,robert922@mail.com,
+  LAURA THOMAS ,12,male,Asthma,Montelukast,2024-08-15,106/63,120,laura.thomas@hospital.org,
+Michael Patel,33,male,Hypertension,Lisinopril,2021-07-31,150/100,225,michael.patel@hospital.org,675-115-8848
+  JOHN BROWN ,28,Female,Diabetes,Metformin,2022-05-17,123/75,217,john925@mail.com,200-484-8643
+Daniel Lee,63,Female,Heart Disease,Atorvastatin,2024-08-29,135/76,259,daniel926@mail.com,
+Jane Sharma,69,Male,Heart Disease,Atorvastatin,2023-04-29,155/101,270,jane.sharma@hospital.org,234-316-5019
+  LAURA SMITH ,73,Female,Diabetes,None,not recorded,133/84,176,name@hospital.org,392-202-1803
+Laura Anderson,63,Male,Hypertension,Metformin,2023-08-28,159/103,221,laura929@mail.com,747-191-5821
+anita smith,55,Male,Diabetes,None,2024-10-30,121/85,198,anita.smith@hospital.org,397-719-5249
+Anita Sharma,52,Female,Hypertension,Lisinopril,2021-02-02,158/92,225,anita.sharma@hospital.org,758-900-2328
+Emily Brown,50,Male,Hypertension,Lisinopril,2022-07-08,154/101,160,contact@domain.com,323-575-3371
+Sarah Davis,32,FEMALE ,Asthma,Albuterol,2024-09-17,122/74,161,sarah933@mail.com,165-853-6737
+  DANIEL SMITH ,43,Female,Hypertension,Amlodipine,2023-02-26,156/106,233,daniel.smith@hospital.org,248-596-6229
+Sarah Wilson,58,Female,Heart Disease,Atorvastatin,2023-04-24,141/95,211,sarah.wilson@hospital.org,153-310-7171
+  ROBERT DAVIS ,38,Male,Diabetes,Insulin,2020-12-01,133/81,199,robert936@mail.com,517-268-9751
+Michael Lee,20,Male,Asthma,Metformin,2022-12-23,107/64,124,name@hospital.org,836-245-5145
+Jane Garcia,60,male,Diabetes,Metformin,2024-11-06,143/83,257,contact@domain.com,263-981-3067
+  JOHN WILSON ,78,Other,Heart Disease,Aspirin,2022-09-08,140/85,282,john939@mail.com,140-398-1681
+Jane Smith,61,None,Hypertension,Lisinopril,2024-10-28,150/92,257,jane940@mail.com,936-866-3161
+Emily Thomas,62,FEMALE ,Heart Disease,Atorvastatin,2021-01-05,146/92,249,contact@domain.com,308-187-7561
+Maria Smith,23, Male,Asthma,Lisinopril,,96/60,134,maria.smith@hospital.org,
+David Taylor,35,Male,Asthma,Montelukast,2023-08-07,136/87,158,david943@mail.com,115-347-7158
+linda patel,62,Other,Heart Disease,Atorvastatin,2023-02-14,123/80,250,contact@domain.com,578-508-3294
+James Davis,36, Male,Diabetes,Metformin,2024-10-23,121/65,197,james945@mail.com,185-910-9085
+James Smith,47, Male,Diabetes,Lisinopril,,106/66,227,contact@domain.com,
+Daniel Martinez,57,Female,Diabetes,Metformin,2021-07-04,125/86,193,name@hospital.org,
+David Anderson,57, Male,Diabetes,Insulin,2024-02-15,124/77,223,contact@domain.com,772-314-9769
+Linda Martinez,82,Female,Heart Disease,Aspirin,2024-07-07,153/97,253,linda.martinez@hospital.org,587-425-2260
+  MARIA ANDERSON ,61,Male,Hypertension,Amlodipine,2020-09-10,164/100,201,name@hospital.org,795-440-5962
+Priya Patel,47, Male,Hypertension,Amlodipine,2022-04-12,176/111,191,priya.patel@hospital.org,
+Robert Miller,24,Female,Asthma,Albuterol,2021-02-03,98/62,173,robert952@mail.com,148-328-9027
+Rahul Martinez,69,Other,Heart Disease,Aspirin,2021-04-24,144/86,260,rahul953@mail.com,271-667-3798
+Daniel Brown,39,Male,Diabetes,Metformin,2023-08-20,135/82,236,contact@domain.com,387-488-8630
+James Martinez,11,Male,Asthma,Albuterol,2021-05-11,111/67,159,james.martinez@hospital.org,973-627-6307
+John Patel,36,Male,Asthma,Montelukast,2022-12-19,119/68,168,john.patel@hospital.org,654-179-4792
+David Lee,75,Other,Heart Disease,Aspirin,2024-07-08,147/88,294,david.lee@hospital.org,371-880-8144
+priya garcia,20,FEMALE ,Asthma,Montelukast,2024-02-29,103/64,154,priya958@mail.com,
+  DANIEL PATEL ,41,Other,Hypertension,Amlodipine,2021-08-21,151/90,188,daniel.patel@hospital.org,766-946-5588
+daniel johnson,50,Male,Heart Disease,Atorvastatin,2022-08-29,141/90,205,daniel960@mail.com,321-779-2988
+James Wilson,13,Male,Asthma,Montelukast,2023-08-12,120/73,0,james.wilson@hospital.org,220-421-7096
+James Sharma,36,Male,Diabetes,Insulin,2024-05-27,131/89,205,james962@mail.com,490-682-6708
+James Patel,32,Male,Asthma,Albuterol,2021-04-25,127/74,136,contact@domain.com,641-257-7055
+  JANE SHARMA ,41,Female,Hypertension,Lisinopril,2024-07-16,150/97,226,jane964@mail.com,704-753-4170
+  SARAH PATEL ,31,Female,Hypertension,Lisinopril,2021-09-16,124/78,191,name@hospital.org,634-808-7174
+  LAURA BROWN ,66,FEMALE ,Hypertension,Amlodipine,2023-08-02,164/103,245,laura966@mail.com,460-620-9362
+Priya Sharma,48,Male,Diabetes,Insulin,2022-07-01,123/72,207,priya.sharma@hospital.org,871-864-3531
+daniel davis,52,None,Diabetes,Metformin,2022-02-19,137/92,185,name@hospital.org,892-371-5538
+Daniel Davis,69,Female,Hypertension,Amlodipine,2021-08-24,182/117,229,name@hospital.org,248-185-7339
+Priya Sharma,50,FEMALE ,Hypertension,Amlodipine,2024-02-24,150/98,223,priya.sharma@hospital.org,404-900-3880
+Maria Taylor,33,None,Asthma,Montelukast,2020-03-20,108/69,131,contact@domain.com,114-465-1272
+Linda Lee,35,Male,Diabetes,Metformin,2024-06-12,120/73,0,contact@domain.com,262-926-5171
+william anderson,48,Male,Diabetes,Lisinopril,2024-07-14,120/77,249,name@hospital.org,461-550-9021
+jane taylor,45,FEMALE ,Hypertension,Lisinopril,2021-04-23,154/87,227,jane.taylor@hospital.org,346-358-8599
+Michael Anderson,36,Female,Diabetes,Insulin,2022-03-06,131/81,201,michael975@mail.com,889-962-7896
+Anita Sharma,47,Male,Hypertension,Metformin,2023-03-02,175/112,0,anita976@mail.com,
+  ANITA SHARMA ,41, Male,Asthma,Albuterol,not recorded,138/91,185,contact@domain.com,253-749-3960
+priya johnson,35,Female,Diabetes,Insulin,,127/88,215,priya978@mail.com,936-545-9386
+rahul sharma,39,Female,Asthma,Montelukast,2021-04-01,119/84,151,rahul.sharma@hospital.org,420-297-7299
+linda wilson,59,Female,Heart Disease,Atorvastatin,2024-03-03,126/89,212,contact@domain.com,
+Emily Smith,86,Male,Hypertension,Lisinopril,2021-09-22,147/88,252,emily981@mail.com,240-422-5614
+Linda Smith,32, Male,Asthma,Albuterol,2024-06-06,104/60,147,linda982@mail.com,461-576-5566
+  RAHUL LEE ,66,Male,Hypertension,Amlodipine,2022-05-12,160/99,227,rahul.lee@hospital.org,
+Anita Garcia,60,Female,Hypertension,Amlodipine,2022-04-05,136/89,212,anita984@mail.com,306-138-2687
+Laura Thomas,39,Female,Hypertension,Amlodipine,2024-07-22,144/85,203,contact@domain.com,749-468-1359
+  RAHUL SMITH ,38,Male,Asthma,Montelukast,2021-04-08,124/75,183,name@hospital.org,764-118-8017
+Linda Wilson,58,Female,Diabetes,Insulin,2020-06-23,128/68,211,name@hospital.org,180-132-9063
+  LINDA PATEL ,64,Other,Heart Disease,Atorvastatin,2021-09-09,119/78,262,contact@domain.com,
+Maria Davis,77,Female,Hypertension,Amlodipine,2023-07-04,161/97,254,name@hospital.org,933-799-7367
+Anita Garcia,8,FEMALE ,Asthma,Albuterol,2020-09-22,117/76,150,name@hospital.org,530-664-6444
+John Martinez,73,Male,Heart Disease,Aspirin,2024-05-13,152/93,0,john.martinez@hospital.org,
+John Thomas,58,Female,Diabetes,Metformin,2022-05-05,135/89,236,contact@domain.com,555-235-3219
+David Smith,40,Female,Heart Disease,Atorvastatin,2023-08-04,149/93,235,name@hospital.org,537-860-2121
+Sarah Garcia,39,Male,Asthma,Albuterol,not recorded,116/62,164,sarah994@mail.com,551-865-6877
+john garcia,37,None,Heart Disease,Atorvastatin,2020-08-26,134/89,256,name@hospital.org,799-362-7679
+  WILLIAM PATEL ,43,Female,Asthma,Montelukast,2022-05-31,126/77,145,william996@mail.com,215-822-2171
+Sarah Miller,75,Male,Heart Disease,Atorvastatin,2024-03-15,129/76,278,sarah.miller@hospital.org,883-147-7368
+  MICHAEL ANDERSON ,27,male,Asthma,Albuterol,2024-08-20,108/64,188,contact@domain.com,
+Daniel Patel,56,Female,Diabetes,Insulin,2023-04-27,121/75,194,contact@domain.com,279-976-2149
+William Patel,63,Female,Heart Disease,Aspirin,2023-11-04,132/83,263,name@hospital.org,271-870-5911
+John Patel,36,Male,Asthma,Montelukast,2022-12-19,119/68,168,john.patel@hospital.org,654-179-4792
+James Lee,36,Female,Heart Disease,Aspirin,2022-12-21,135/87,258,james.lee@hospital.org,341-144-3573
+  DAVID DAVIS ,39,Female,Asthma,Albuterol,2024-04-21,127/81,189,david173@mail.com,371-707-4464
+  JANE BROWN ,72, Male,Diabetes,Metformin,2023-07-21,117/75,199,jane759@mail.com,864-259-1727
+James Martinez,11,Male,Asthma,Albuterol,2021-05-11,111/67,159,james.martinez@hospital.org,973-627-6307
+  LAURA DAVIS ,37,Male,Diabetes,Metformin,2023-05-15,122/78,227,name@hospital.org,442-144-2777
+  ROBERT LEE ,63,None,Diabetes,Metformin,,133/84,206,robert.lee@hospital.org,446-503-1859
+Emily Smith,35,Female,Hypertension,Lisinopril,2023-04-19,146/83,123,contact@domain.com,429-491-6228
+james miller,0,FEMALE ,Heart Disease,Aspirin,2021-02-26,136/85,261,name@hospital.org,
+Maria Wilson,37,Male,Asthma,Montelukast,,124/80,153,name@hospital.org,840-476-5966
+michael johnson,16,None,Asthma,Montelukast,2021-11-14,122/74,170,name@hospital.org,
+Rahul Sharma,70,Female,Heart Disease,Aspirin,2021-02-17,140/72,211,rahul.sharma@hospital.org,819-554-3939
+linda patel,62,Other,Heart Disease,Atorvastatin,2023-02-14,123/80,250,contact@domain.com,578-508-3294
+  JAMES BROWN ,48,FEMALE ,Heart Disease,Atorvastatin,2022-04-18,138/83,238,contact@domain.com,519-445-2506
+  DAVID MILLER ,63, Male,Heart Disease,Atorvastatin,2021-04-24,147/80,285,david.miller@hospital.org,
+Emily Davis,56,Male,Heart Disease,Aspirin,2020-09-09,114/68,291,emily845@mail.com,244-498-2746
+  RAHUL MILLER ,56,Female,Asthma,Montelukast,2020-09-02,122/77,238,name@hospital.org,514-332-7616
+  JOHN SHARMA ,63,Male,Diabetes,Metformin,,129/80,274,name@hospital.org,376-997-1765
+  EMILY BROWN ,40,Male,Asthma,Albuterol,2023-05-29,112/69,168,name@hospital.org,968-698-2268
+Linda Smith,32, Male,Asthma,Albuterol,2024-06-06,104/60,147,linda982@mail.com,461-576-5566
+Sarah Patel,54,Male,Diabetes,None,2023-06-24,113/68,222,name@hospital.org,242-159-4400
+Emily Thomas,34,None,Heart Disease,Aspirin,2022-08-09,127/81,194,contact@domain.com,
+Linda Anderson,48,Other,Hypertension,Amlodipine,2023-01-23,137/94,207,name@hospital.org,972-730-5315
+  JANE JOHNSON ,41,Male,Hypertension,Amlodipine,2022-04-14,145/87,154,jane449@mail.com,266-515-3499
+Sarah Miller,50,male,Diabetes,Insulin,2020-08-06,126/84,230,sarah.miller@hospital.org,494-139-7192
+  MARIA JOHNSON ,85,None,Heart Disease,Atorvastatin,2020-05-20,147/86,288,contact@domain.com,605-636-7194
+Robert Martinez,50,Male,Diabetes,Metformin,2024-04-25,135/76,249,robert922@mail.com,
+Anita Davis,5,Male,Asthma,Montelukast,2023-04-15,102/63,165,anita171@mail.com,521-305-9829
+  LAURA MILLER ,69,Male,Heart Disease,Atorvastatin,2020-02-06,151/89,257,name@hospital.org,
